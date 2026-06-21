@@ -1,0 +1,36 @@
+Campos;Descripción
+pais_id;Código Nacional
+pais;División política mundial
+provincia_id;Código Provincial
+provincia;División política provincial
+departamento_id;Código departamental
+departamento;División política departamental
+link;Código que permite identificar de forma única los departamentos. Por medio de este código se puede asociar los objetos geográficos con la información. 
+sup_eap;Superficie total de explotaciones agropecuarias del departamento expresada en hectáreas
+tot_eap;Cantidad de explotaciones agropecuarias del departamento.
+tot_ha;Superficie total de tierras del departamento sembradas con siembra directa, expresada en hectáreas
+p_SDSup;Porcentaje de tierras del departamento sembradas con siembra directa
+maiz_eap;Cantidad de expolitaciones agropecuarias donde se siembra maiz con siembra directa.
+maiz_ha;Superficie de tierras del departamento donde se siembra maiz con siembra directa, expresada en hectáreas
+sorgran_eap;Cantidad de expolitaciones agropecuarias donde se siembra sorgo granifero con siembra directa.
+sorgran_ha;Superficie de tierras del departamento donde se siembra sorgo granifero con siembra directa, expresada en hectáreas
+trigo_eap;Cantidad de expolitaciones agropecuarias donde se siembra trigo con siembra directa.
+trigo_ha;Superficie de tierras del departamento donde se siembra trigo con siembra directa, expresada en hectáreas
+girasol_eap;Cantidad de expolitaciones agropecuarias donde se siembra girasol con siembra directa.
+girasol_ha;Superficie de tierras del departamento donde se siembra girasol con siembra directa, expresada en hectáreas
+soja_eap;Cantidad de expolitaciones agropecuarias donde se siembra soja con siembra directa.
+soja_ha;Superficie de tierras del departamento donde se siembra soja con siembra directa, expresada en hectáreas
+soja1_eap;Cantidad de expolitaciones agropecuarias donde se siembra soja de primera con siembra directa.
+soja1_ha;Superficie de tierras del departamento donde se siembra soja de primera con siembra directa, expresada en hectáreas
+soja2_eap;Cantidad de expolitaciones agropecuarias donde se siembra soja de segunda con siembra directa.
+soja2_ha;Superficie de tierras del departamento donde se siembra soja de segunda con siembra directa, expresada en hectáreas
+forraj_eap;Cantidad de expolitaciones agropecuarias donde se siembra forrajera con siembra directa.
+forraj_ha;Superficie de tierras del departamento donde se siembra forrajera con siembra directa, expresada en hectáreas
+arroz_eap;Cantidad de expolitaciones agropecuarias donde se siembra arroz con siembra directa.
+arroz_ha;Superficie de tierras del departamento donde se siembra arroz con siembra directa, expresada en hectáreas
+algo_eap;Cantidad de expolitaciones agropecuarias donde se siembra algodón con siembra directa.
+algo_ha;Superficie de tierras del departamento donde se siembra algodón con siembra directa, expresada en hectáreas
+po_eap;Cantidad de expolitaciones agropecuarias donde se siembra porotos con siembra directa.
+po_ha;Superficie de tierras del departamento donde se siembra porotos con siembra directa, expresada en hectáreas
+otros_eap;Cantidad de expolitaciones agropecuarias donde se siembran otros cultivos con siembra directa.
+otros_ha;Superficie de tierras del departamento donde se siembra otros cultivos con siembra directa, expresada en hectáreas

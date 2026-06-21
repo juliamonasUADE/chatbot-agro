@@ -1,0 +1,14 @@
+nombre columna;definicion
+Sector_IPCC;Nombre del sector segun IPCC
+Categoria_IPCC;Nombre de la categoria segun IPCC
+Subcategoria de primer orden_IPCC;Nombre segun IPCC
+Sub-actividad;agrupamiento segun el Sistema Nacional de Inventario de Gases de Efecto Invernadero (SNI-GEI)
+ID_Fuente_emision_ y_absorcion;Codigos de categorias de las Directrices del IPCC 2006 adaptadas nacionalmente
+actividad de agricultura ;"Incluye las Sub-actividades: Fertilizantes Sinteticos (aplicacion de urea, fertilizantes nitrogenados); Produccion agricola (residuos de cosecha, quema de biomasa de resiudos de cosecha, cultivo de arroz); e Quena de biomasa (quema de biomasa en pastizales y tierras forestales)"
+actividad de Ganaderia ;Incluye las Sub-actividades: Bovinos de Carne, Bovinos de Leche, Bubalinos, Caprinos, Ovinos, Porcinos, Equinos, Mulares y asnales, Camelidos, y aves (para todos: fermentacion enterica, gestion del estiercol, excretas en pasturas y fertilizantes organicos)
+actividad de Uso de la Tierra ;Incluye las Sub-actividades: Bosque Cultivado, Bosque Nativo y Cultivo/Pasturas (incluye los cambios de uso de la tierra)
+IPCC;Intergovernmental Panel on Climate Change/Grupo Intergubernamental de Expertos sobre el Cambio Climatico 
+Fuente de datos;Secretaria de Gobierno de ambiente y Desarrollo Sustentable
+Descripcion dataset;Se detallan las emisiones de Gases de Efecto Invernadero (GEI) provenientes de la agricultura, Ganaderia, Silvicultura y Otros Usos de la Tierra. Los datos se encuentran en MtCO2eq, a nivel nacional y estimadas para toda la serie temporal de 1990 a 2016.
+Descripcion recurso;Se detallan las emisiones de Gases de Efecto Invernadero (GEI) provenientes de la agricultura, Ganaderia, Silvicultura y Otros Usos de la Tierra.
+acceso al inventario de SayDS;acceso al Inventario Nacional de GEI 2014 (presentado a la Convencion Marco de las Naciones Unidas sobre el Cambio Climatico) SGayDS

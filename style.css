@@ -1,0 +1,201 @@
+* { box-sizing: border-box; margin: 0; padding: 0; }
+
+body {
+    font-family: 'Segoe UI', Arial, sans-serif;
+    background: #0D0D1A;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+.app {
+    width: 100%;
+    max-width: 480px;
+    height: 92vh;
+    background: #16213E;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+    border: 1px solid #1E3A5F;
+}
+
+/* HEADER */
+.header {
+    background: #1A1A2E;
+    padding: 14px 18px;
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    border-bottom: 1px solid #1E3A5F;
+}
+
+.logo {
+    width: 42px;
+    height: 42px;
+    object-fit: contain;
+    background: white;
+    border-radius: 8px;
+    padding: 4px;
+}
+
+.header-text h1 {
+    font-size: 16px;
+    font-weight: 600;
+    color: white;
+}
+
+.header-text p {
+    font-size: 11px;
+    color: #4CAF50;
+    margin-top: 2px;
+}
+
+.badge {
+    margin-left: auto;
+    background: #0F3460;
+    border: 1px solid #4CAF50;
+    color: #4CAF50;
+    border-radius: 20px;
+    padding: 3px 10px;
+    font-size: 11px;
+    font-weight: 600;
+}
+
+/* CHIPS */
+.chips-wrap {
+    padding: 10px 14px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+    border-bottom: 1px solid #1E3A5F;
+    background: #1A1A2E;
+}
+
+.chip {
+    background: #0F3460;
+    border: 1px solid #1E3A5F;
+    color: #90CAF9;
+    border-radius: 20px;
+    padding: 5px 10px;
+    font-size: 11px;
+    cursor: pointer;
+    transition: all 0.2s;
+}
+
+.chip:hover {
+    background: #4CAF50;
+    color: white;
+    border-color: #4CAF50;
+}
+
+/* CHAT */
+#chat {
+    flex: 1;
+    padding: 14px;
+    overflow-y: auto;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    scrollbar-width: thin;
+    scrollbar-color: #1E3A5F transparent;
+}
+
+#chat::-webkit-scrollbar { width: 4px; }
+#chat::-webkit-scrollbar-thumb { background: #1E3A5F; border-radius: 4px; }
+
+.burbuja {
+    max-width: 82%;
+    padding: 10px 14px;
+    border-radius: 16px;
+    font-size: 13.5px;
+    line-height: 1.55;
+    word-wrap: break-word;
+    animation: fadeIn 0.2s ease;
+}
+
+@keyframes fadeIn {
+    from { opacity: 0; transform: translateY(6px); }
+    to { opacity: 1; transform: translateY(0); }
+}
+
+.burbuja.usuario {
+    background: #4CAF50;
+    color: white;
+    align-self: flex-end;
+    border-bottom-right-radius: 4px;
+}
+
+.burbuja.bot {
+    background: #0F3460;
+    color: #E0E0E0;
+    align-self: flex-start;
+    border-bottom-left-radius: 4px;
+    border-left: 3px solid #4CAF50;
+}
+
+.fuentes {
+    font-size: 10px;
+    color: #4CAF50;
+    margin-top: 6px;
+    opacity: 0.8;
+}
+
+/* SPINNER */
+.spinner-wrap { align-self: flex-start; padding: 6px 0; }
+.spinner {
+    width: 26px;
+    height: 26px;
+    border: 2px solid #1E3A5F;
+    border-top: 2px solid #4CAF50;
+    border-radius: 50%;
+    animation: spin 0.8s linear infinite;
+}
+@keyframes spin { to { transform: rotate(360deg); } }
+
+/* INPUT */
+.input-area {
+    padding: 12px 14px;
+    border-top: 1px solid #1E3A5F;
+    display: flex;
+    gap: 8px;
+    background: #1A1A2E;
+}
+
+.input-area input {
+    flex: 1;
+    padding: 11px 16px;
+    border-radius: 24px;
+    border: 1px solid #1E3A5F;
+    background: #0F3460;
+    color: white;
+    font-size: 13.5px;
+    outline: none;
+    transition: border 0.2s;
+}
+
+.input-area input::placeholder { color: #546E7A; }
+.input-area input:focus { border-color: #4CAF50; }
+
+.input-area button {
+    width: 42px;
+    height: 42px;
+    border-radius: 50%;
+    border: none;
+    background: #4CAF50;
+    color: white;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: transform 0.2s, background 0.2s;
+    flex-shrink: 0;
+}
+
+.input-area button:hover { background: #388E3C; transform: scale(1.05); }
+.input-area button:disabled { opacity: 0.4; cursor: not-allowed; transform: none; }
+
+@media (max-width: 500px) {
+    .app { height: 100vh; border-radius: 0; }
+}

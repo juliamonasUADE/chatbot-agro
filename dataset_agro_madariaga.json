@@ -1,0 +1,497 @@
+[
+  {
+    "instruction": "¿Cuántos establecimientos productivos hay en el Partido de General Madariaga?",
+    "input": "",
+    "output": "En el Partido de General Madariaga se identificaron un total de 2283 establecimientos vinculados a la actividad productiva. De estos, 1331 son agropecuarios (61%), 491 comerciales (23%), 203 de servicios (9%), 102 de producciones intensivas (5%) y 54 industriales (2%)."
+  },
+  {
+    "instruction": "¿Cuál es el sector económico más importante del Partido de General Madariaga?",
+    "input": "",
+    "output": "El sector agropecuario es el más importante del Partido de General Madariaga, con 1331 unidades productivas que representan el 61% del total de establecimientos. La ganadería y la agricultura son las principales actividades económicas, tanto en términos de empleo como de contribución al Producto Bruto Geográfico."
+  },
+  {
+    "instruction": "¿Cuántas hectáreas tiene el Partido de General Madariaga?",
+    "input": "",
+    "output": "El total de hectáreas del Partido de General Madariaga es de 286.288, distribuidas en 1331 unidades productivas agropecuarias."
+  },
+  {
+    "instruction": "¿Cuál es el tamaño predominante de las explotaciones agropecuarias?",
+    "input": "",
+    "output": "La mayor parte de las explotaciones agropecuarias del Partido tiene un tamaño menor a las 500 hectáreas (85%), mientras que el 13% tiene una superficie entre 500 y 1999 hectáreas y solo un 2% es igual o mayor a 2000 hectáreas."
+  },
+  {
+    "instruction": "¿Cuántas hectáreas de maíz se sembraron en la última campaña?",
+    "input": "",
+    "output": "En la campaña de verano 2020/2021 se sembraron 17.800 hectáreas de maíz en el Partido de General Madariaga, con un rinde estimado promedio de 8500 kg por hectárea."
+  },
+  {
+    "instruction": "¿Cuáles son los principales cultivos de verano del partido?",
+    "input": "",
+    "output": "Los principales cultivos de verano del Partido de General Madariaga son el maíz (17.800 hectáreas), el girasol (8.800 hectáreas) y la soja (10.000 hectáreas en total, entre soja de primera y segunda), según la campaña 2020/2021."
+  },
+  {
+    "instruction": "¿Cuántas hectáreas de trigo se sembraron en la campaña 2021/2022?",
+    "input": "",
+    "output": "En la campaña de invierno 2021/2022 se sembraron 6000 hectáreas de trigo en el Partido de General Madariaga, con un rinde estimado promedio de 5300 kg por hectárea. Este valor fue superior al de las anteriores cuatro campañas."
+  },
+  {
+    "instruction": "¿Cuántas hectáreas de girasol se sembraron en la última campaña?",
+    "input": "",
+    "output": "En la campaña de verano 2020/2021 se sembraron 8800 hectáreas de girasol en el Partido de General Madariaga, con un rinde estimado promedio de 2800 kg por hectárea."
+  },
+  {
+    "instruction": "¿Cuántas hectáreas de soja se cultivan en el partido?",
+    "input": "",
+    "output": "En la campaña 2020/2021 se sembraron 4500 hectáreas de soja de primera con un rinde de 3900 kg/ha, y 5500 hectáreas de soja de segunda con un rinde de 2000 kg/ha, totalizando 10.000 hectáreas de soja en el Partido de General Madariaga."
+  },
+  {
+    "instruction": "¿Cuáles son las zonas con mejor aptitud agrícola del partido?",
+    "input": "",
+    "output": "Los parajes de Juancho y Macedo ofrecen las tierras con mejor aptitud agrícola del Partido de General Madariaga. El noreste del partido es la zona donde predominan los montes de talas y coronillos, dedicados principalmente a campos naturales de cría y recría."
+  },
+  {
+    "instruction": "¿Cuántas cabezas de ganado hay en el Partido de General Madariaga?",
+    "input": "",
+    "output": "En el primer semestre de 2022 se identificaron cerca de 260.000 cabezas de ganado en el Partido de General Madariaga. Se distribuyen en vacas (42%), terneros y terneras (16% respectivamente), vaquillonas (12%) y novillitos (8%)."
+  },
+  {
+    "instruction": "¿Cuál es la distribución del stock ganadero en el partido?",
+    "input": "",
+    "output": "Las 258.446 cabezas de ganado del Partido de General Madariaga se distribuyen de la siguiente manera: vacas (42%), terneros (16%), terneras (16%), vaquillonas (12%), novillitos (8%), novillos (4%) y toros (2%)."
+  },
+  {
+    "instruction": "¿Qué tipo de animal predomina en la ganadería del partido?",
+    "input": "",
+    "output": "Las vacas son el tipo de animal predominante en la ganadería del Partido de General Madariaga, representando el 42% del total de cabezas. Le siguen los terneros y terneras con un 16% cada uno."
+  },
+  {
+    "instruction": "¿Cómo es la producción apícola en General Madariaga?",
+    "input": "",
+    "output": "La actividad apícola es la principal producción intensiva del partido. Existen alrededor de 20.000 colmenas distribuidas entre aproximadamente 60 productores, con una producción promedio de 20 kg por colmena. Esto implica una producción total de alrededor de 500.000 kilogramos de miel por campaña. Las mieles de la zona son claras, de sabor suave y calidad sobresaliente. También existe una miel monoflora de Coronillo, de color oscuro y sabor intenso."
+  },
+  {
+    "instruction": "¿Cuántos apicultores hay en el partido?",
+    "input": "",
+    "output": "En el Partido de General Madariaga hay aproximadamente 60 apicultores que explotan alrededor de 20.000 colmenas y producen unos 500.000 kilogramos de miel por año."
+  },
+  {
+    "instruction": "¿Cuál es la producción de kiwi en General Madariaga?",
+    "input": "",
+    "output": "La producción de kiwi se desarrolla en el Paraje Macedo, a 30 km de la ciudad cabecera. Existen más de 100 hectáreas de plantación pertenecientes a las firmas Manzanar de Macedo S.A. y El Kiwal de Macedo S.A. La producción anual es de aproximadamente 1.500.000 kilogramos por cosecha, y parte de ella se exporta a Italia y España."
+  },
+  {
+    "instruction": "¿Cuáles son las producciones intensivas del partido?",
+    "input": "",
+    "output": "Las producciones intensivas del Partido de General Madariaga incluyen: apicultura (49%), porcinocultura (30%), huertas municipales (10%), horticultura (9%) y fruticultura (2%). La apicultura y la porcinocultura concentran más de dos tercios del total de producciones intensivas."
+  },
+  {
+    "instruction": "¿Cómo es la producción porcina en el partido?",
+    "input": "",
+    "output": "La porcinocultura en el Partido de General Madariaga se desarrolla en 31 unidades productivas que cuentan con 931 animales, según datos de SENASA."
+  },
+  {
+    "instruction": "¿Qué productos hortícolas se producen en el partido?",
+    "input": "",
+    "output": "La producción hortícola se desarrolla a través de 9 productores con alrededor de 100 hectáreas en total. Los principales productos son choclo dulce, zapallo, tomate, pimiento y verdura de hoja. Las ventas se realizan exclusivamente en el mercado interno local y regional, principalmente en General Madariaga y Pinamar. También existen 3 productores de verduras en hidroponía."
+  },
+  {
+    "instruction": "¿Cuál es el clima de General Madariaga?",
+    "input": "",
+    "output": "General Madariaga tiene un clima templado húmedo. La temperatura media anual es de alrededor de 16°C a 17°C. En verano las temperaturas oscilan entre 20°C y 25°C, pudiendo superar los 30°C. En invierno varían entre 8°C y 12°C, con mínimas cercanas a 0°C. Las precipitaciones anuales oscilan entre 900 mm y 1100 mm."
+  },
+  {
+    "instruction": "¿Cuánto llueve en General Madariaga?",
+    "input": "",
+    "output": "La precipitación anual promedio en General Madariaga oscila entre 900 mm y 1100 mm, lo que coloca a la región dentro de un clima templado húmedo. Las lluvias son más abundantes en verano, con acumulados que pueden superar los 300 mm. El invierno es la estación más seca, con menos de 200 mm."
+  },
+  {
+    "instruction": "¿Cómo afecta el clima a la agricultura de General Madariaga?",
+    "input": "",
+    "output": "El régimen climático de General Madariaga es generalmente favorable para la agricultura. Las temperaturas son adecuadas para cultivos como maíz, soja y girasol en verano, y trigo en invierno. Sin embargo, las heladas invernales pueden afectar cultivos sensibles al frío. La variabilidad interanual por fenómenos como El Niño y La Niña requiere planificación cuidadosa para manejar tanto períodos de exceso hídrico como de sequía."
+  },
+  {
+    "instruction": "¿Cuántas horas de luz hay en verano en General Madariaga?",
+    "input": "",
+    "output": "Durante el verano, General Madariaga experimenta aproximadamente entre 14 y 15 horas de luz diurna. En invierno, los días más cortos tienen entre 9 y 10 horas de luz. Esta variación en el fotoperiodo es determinante para la floración de muchos cultivos."
+  },
+  {
+    "instruction": "¿Cuál es la radiación solar en General Madariaga?",
+    "input": "",
+    "output": "La radiación solar global promedio en General Madariaga varía entre 4 y 5 kWh/m²/día anuales. En verano puede alcanzar valores de hasta 6-7 kWh/m²/día, mientras que en invierno baja a entre 2 y 3 kWh/m²/día."
+  },
+  {
+    "instruction": "¿Cuántas empresas industriales hay en el partido?",
+    "input": "",
+    "output": "En el Partido de General Madariaga hay 54 empresas industriales, que representan el 7% del total de establecimientos relevados en el sector industria, comercio y servicios."
+  },
+  {
+    "instruction": "¿Cuántas empresas comerciales hay en el partido?",
+    "input": "",
+    "output": "En el Partido de General Madariaga hay 491 empresas comerciales, que representan el 66% del total de establecimientos relevados. Dentro del comercio, prevalece la venta minorista y mayorista."
+  },
+  {
+    "instruction": "¿Cómo son las empresas del Partido de General Madariaga?",
+    "input": "",
+    "output": "Las empresas del Partido de General Madariaga se caracterizan por ser MiPyMEs familiares, independientes, de capital nacional y mayormente unipersonales. El 85% son microempresas con menos de 5 ocupados, el 68% son empresas familiares y el 75% son unipersonales. El 98% son independientes y no forman parte de un grupo económico."
+  },
+  {
+    "instruction": "¿Las empresas del partido venden fuera de General Madariaga?",
+    "input": "",
+    "output": "El 81% de las empresas del Partido de General Madariaga vende únicamente en el mercado local. Solo el 19% tiene clientes fuera del partido, siendo las empresas industriales las más diversificadas geográficamente (54% vende fuera). Los destinos más frecuentes son Pinamar (26%), Villa Gesell (16%), Partido de la Costa (10%) y Costa Esmeralda (8%)."
+  },
+  {
+    "instruction": "¿Cuántas empresas del partido invierten?",
+    "input": "",
+    "output": "El 53% de las empresas del Partido de General Madariaga declaró haber invertido en los últimos 12 meses. Este porcentaje es mayor en el sector industrial (57%). Las inversiones se financian principalmente con fondos propios (90%) y se destinan principalmente a mejorar infraestructura (47%) y mantener stocks (43%)."
+  },
+  {
+    "instruction": "¿Cuál es la presencia digital de las empresas del partido?",
+    "input": "",
+    "output": "La presencia digital de las empresas del Partido de General Madariaga es baja. Solo el 35% tiene página de Facebook, el 37% tiene presencia en Instagram y apenas el 10% cuenta con página web. Esto indica un importante espacio para profundizar la digitalización comercial de las empresas."
+  },
+  {
+    "instruction": "¿Cuáles son las expectativas de ventas de las empresas del partido?",
+    "input": "",
+    "output": "Las expectativas de ventas son optimistas: el 43% de las empresas espera que sus ventas aumenten por encima de la inflación y el 41% espera mantenerlas en términos reales. La industria es el sector con mayores expectativas de crecimiento, con un 48% esperando aumento de ventas."
+  },
+  {
+    "instruction": "¿Qué dificultades tienen las empresas para contratar personal?",
+    "input": "",
+    "output": "El 21% de las empresas del partido está buscando personal. La mayor dificultad reside en conseguir operarios calificados (17% de las empresas los busca), tanto en el sector industrial como en el de servicios. Los mandos medios, técnicos y universitarios son muy poco demandados."
+  },
+  {
+    "instruction": "¿Qué universidades trabajan con el sector agropecuario de General Madariaga?",
+    "input": "",
+    "output": "El sector agropecuario de General Madariaga tiene articulación con la Universidad Nacional de Mar del Plata, el INTA y la UADE en temas de investigación en la frontera tecnológica. Existe una Asociación de Ingenieros Agrónomos con 46 socios, de los cuales más de 30 están activos."
+  },
+  {
+    "instruction": "¿Qué es el Mapa Productivo de General Madariaga?",
+    "input": "",
+    "output": "El Mapa Productivo del Partido de General Madariaga es un estudio global de los sectores económicos realizado en 2022. Es producto de un convenio entre la Facultad de Ciencias Económicas y Sociales de la Universidad Nacional de Mar del Plata y la Municipalidad del Partido de General Madariaga. Describe la composición y fortalezas del entramado productivo del partido, abarcando los sectores agropecuario, industrial, comercial y de servicios."
+  },
+  {
+    "instruction": "¿Cuántas huertas familiares hay en el partido?",
+    "input": "",
+    "output": "En el Partido de General Madariaga existen 300 huertas familiares que producen para autoconsumo, además de alrededor de 10 huertas que emplean aproximadamente 15 trabajadores y comercializan su producción a través de proyectos municipales."
+  },
+  {
+    "instruction": "¿Cuántas empresas de servicios agropecuarios hay en el partido?",
+    "input": "",
+    "output": "En el Partido de General Madariaga hay 35 empresas de servicios agropecuarios que prestan servicios de siembra, cosecha, pulverización, fertilización y otras labores en los diferentes cultivos."
+  },
+  {
+    "instruction": "¿Qué porcentaje de empresas capacita a su personal?",
+    "input": "",
+    "output": "Solo el 25% de las empresas del Partido de General Madariaga capacitó a su personal en los últimos 3 años. El sector servicios lidera esta actividad (41%), seguido por la industria (37%) y el comercio (17%)."
+  },
+  {
+    "instruction": "¿Cuál es el rinde promedio de maíz en General Madariaga?",
+    "input": "",
+    "output": "El rinde estimado promedio de maíz en el Partido de General Madariaga es de 8.500 kg por hectárea en la campaña 2020/2021. En campañas anteriores los rindes fueron similares: 8.200 kg/ha en 2019/2020, 8.300 kg/ha en 2018/2019, 8.000 kg/ha en 2017/2018 y 7.600 kg/ha en 2016/2017."
+  },
+  {
+    "instruction": "¿Cuál es el rinde promedio de trigo en el partido?",
+    "input": "",
+    "output": "El rinde estimado promedio de trigo en el Partido de General Madariaga es de 5.300 kg por hectárea en la campaña 2021/2022. En campañas anteriores fue de 5.100 kg/ha en 2020/2021, 5.000 kg/ha en 2019/2020, 5.400 kg/ha en 2018/2019 y 5.500 kg/ha en 2017/2018."
+  },
+  {
+    "instruction": "¿Cuál es el rinde promedio de girasol en General Madariaga?",
+    "input": "",
+    "output": "El rinde estimado promedio de girasol en el Partido de General Madariaga es de 2.800 kg por hectárea en la campaña 2020/2021. Los rindes de campañas anteriores fueron: 2.800 kg/ha en 2019/2020, 2.500 kg/ha en 2018/2019, 3.200 kg/ha en 2017/2018 y 2.300 kg/ha en 2016/2017."
+  },
+  {
+    "instruction": "¿Cuál es el rinde de soja en el partido?",
+    "input": "",
+    "output": "En el Partido de General Madariaga el rinde de soja de primera es de 3.900 kg/ha y el de soja de segunda es de 2.000 kg/ha, según la campaña 2020/2021. En campañas anteriores, la soja de primera rindió entre 2.980 y 3.800 kg/ha."
+  },
+  {
+    "instruction": "¿Cuándo es la época de siembra de trigo en General Madariaga?",
+    "input": "",
+    "output": "El trigo es el principal cultivo de invierno del Partido de General Madariaga. La siembra se realiza entre mayo y julio, y la cosecha ocurre entre noviembre y diciembre. En la campaña 2021/2022 se sembraron 6.000 hectáreas, el valor más alto de las últimas cinco campañas."
+  },
+  {
+    "instruction": "¿Cuándo se siembra el maíz en el partido?",
+    "input": "",
+    "output": "El maíz es el principal cultivo de verano del Partido de General Madariaga. La siembra temprana se realiza entre septiembre y octubre, y la siembra tardía entre noviembre y diciembre. La cosecha ocurre entre marzo y mayo. En la campaña 2020/2021 se sembraron 17.800 hectáreas."
+  },
+  {
+    "instruction": "¿Qué servicios agropecuarios están disponibles en el partido?",
+    "input": "",
+    "output": "En el Partido de General Madariaga hay 35 empresas de servicios agropecuarios que ofrecen servicios de siembra, cosecha, pulverización, fertilización y otras labores en los diferentes cultivos. Algunas son unipersonales y otras tienen un número reducido de trabajadores."
+  },
+  {
+    "instruction": "¿Hay ingenieros agrónomos en General Madariaga?",
+    "input": "",
+    "output": "Sí. En el Partido de General Madariaga existe una Asociación de Ingenieros Agrónomos constituida por 46 socios, de los cuales más de 30 están activos. Brindan apoyo técnico y profesional a la actividad agropecuaria en general y tienen articulación con la Universidad Nacional de Mar del Plata en temas de investigación."
+  },
+  {
+    "instruction": "¿Cuáles son las zonas con mejor aptitud agrícola del partido?",
+    "input": "",
+    "output": "Los parajes de Juancho y Macedo ofrecen las tierras con mejor aptitud agrícola del Partido de General Madariaga. El noreste del partido presenta montes de talas y coronillos, dedicados principalmente a campos naturales de cría y recría ganadera."
+  },
+  {
+    "instruction": "¿Qué tecnologías se usan en la ganadería del partido?",
+    "input": "",
+    "output": "El sector agropecuario de General Madariaga tiene articulación con grupos de investigación de la Facultad de Ciencias Agrarias de la Universidad Nacional de Mar del Plata, con temáticas vinculadas a nuevas tecnologías como Internet de las Cosas (IoT) aplicado a pasturas y ganadería."
+  },
+  {
+    "instruction": "¿Cómo es la producción de miel en General Madariaga?",
+    "input": "",
+    "output": "La producción apícola es la principal producción intensiva del Partido de General Madariaga. Existen alrededor de 20.000 colmenas distribuidas entre aproximadamente 60 apicultores, con una producción promedio de 20 kg por colmena, lo que implica una producción total de aproximadamente 400.000 kg de miel por campaña. Las mieles de la zona son claras, de sabor suave y calidad sobresaliente."
+  },
+  {
+    "instruction": "¿Se puede exportar desde General Madariaga?",
+    "input": "",
+    "output": "Sí. Las empresas productoras de kiwi del Partido de General Madariaga exportan la mayor parte de su producción, siendo los principales destinos Italia (Verona y Bérgamo) y España. Estas firmas cuentan con alrededor de 100 hectáreas de plantación y producen aproximadamente 1.500.000 kg por cosecha."
+  },
+  {
+    "instruction": "¿Cuántas colmenas hay en General Madariaga?",
+    "input": "",
+    "output": "En el Partido de General Madariaga hay alrededor de 20.000 colmenas distribuidas entre aproximadamente 60 apicultores. La producción promedio es de 20 kg de miel por colmena, con una producción total de aproximadamente 400.000 kg por campaña."
+  },
+  {
+    "instruction": "¿Es rentable invertir en el sector agropecuario de General Madariaga?",
+    "input": "",
+    "output": "El sector agropecuario es el más importante del Partido de General Madariaga, con 1.331 unidades productivas que representan el 61% del total. La ganadería y la agricultura son las principales actividades económicas en términos de empleo y contribución al Producto Bruto Geográfico. La industria es el sector con mayores expectativas de crecimiento según el relevamiento 2022."
+  },
+  {
+    "instruction": "¿Qué oportunidades de inversión hay en General Madariaga?",
+    "input": "",
+    "output": "Las principales oportunidades de inversión en el Partido de General Madariaga incluyen: el sector agropecuario (ganadería, agricultura, apicultura y producción de kiwi para exportación), el sector industrial con mayores expectativas de crecimiento, y el sector de tecnologías de la información y comunicación (TIC) que acompañe la transformación digital de las empresas locales. El 53% de las empresas invirtió en el último año, principalmente con fondos propios, lo que indica apertura a financiamiento externo."
+  },
+  {
+    "instruction": "¿Cuánto cuesta la tierra en General Madariaga?",
+    "input": "",
+    "output": "El Mapa Productivo 2022 no incluye datos específicos sobre el precio de la tierra en el Partido de General Madariaga. Para obtener esta información se recomienda consultar a las inmobiliarias rurales locales o a la Asociación de Ingenieros Agrónomos del partido."
+  },
+  {
+    "instruction": "¿Cuál es el potencial de la apicultura como inversión?",
+    "input": "",
+    "output": "La apicultura representa el 49% de las producciones intensivas del Partido de General Madariaga y tiene alto potencial. Con 20.000 colmenas y una producción de 400.000 kg de miel por campaña, es una actividad consolidada. Las mieles de la zona tienen calidad sobresaliente, incluyendo una miel monoflora de Coronillo de color oscuro y sabor intenso, con potencial de diferenciación en mercados premium."
+  },
+  {
+    "instruction": "¿Qué infraestructura tiene General Madariaga?",
+    "input": "",
+    "output": "El Partido de General Madariaga cuenta con infraestructura para el desarrollo productivo: 35 empresas de servicios agropecuarios, una Asociación de Ingenieros Agrónomos con más de 30 profesionales activos, mercado concentrador, mercado de la estación y articulación con la Universidad Nacional de Mar del Plata. El partido limita con Pinamar y la Costa Atlántica, lo que facilita el acceso a mercados turísticos de alta demanda."
+  },
+  {
+    "instruction": "¿Qué sectores tienen mayor expectativa de crecimiento?",
+    "input": "",
+    "output": "Según el relevamiento 2022, la industria es el sector con mayores expectativas de crecimiento en el Partido de General Madariaga: el 35% de las empresas industriales espera aumentar el número de ocupados y el 48% espera que sus ventas aumenten por encima de la inflación. También se identifica como oportunidad el desarrollo de un sector de tecnologías de la información y comunicación (TIC)."
+  },
+  {
+    "instruction": "¿Cómo accedo a financiamiento para invertir en el partido?",
+    "input": "",
+    "output": "En el Partido de General Madariaga el 90% de las inversiones se financia con fondos propios y solo el 7% accede a créditos de la banca pública. El Mapa Productivo recomienda intensificar la difusión de líneas de financiamiento como el PAC, FITBA y crédito fiscal del Ministerio de Producción de la Provincia de Buenos Aires, y programas de la Universidad Nacional de Mar del Plata."
+  },
+  {
+    "instruction": "¿Cuántos trabajadores se pueden contratar en el partido?",
+    "input": "",
+    "output": "El 21% de las empresas del Partido de General Madariaga está buscando personal activamente. La mayor dificultad es conseguir operarios calificados. El sector servicios tiene la mayor demanda (34% busca personal), seguido por la industria (27%) y el comercio (16%). Existe espacio para la incorporación de profesionales universitarios y técnicos."
+  },
+  {
+    "instruction": "¿Cuál es el mercado para los productos de General Madariaga?",
+    "input": "",
+    "output": "El 81% de las empresas del Partido de General Madariaga vende en el mercado local. Los que venden fuera del partido tienen como principales destinos Pinamar (26%), Villa Gesell (16%), Partido de la Costa (10%) y Costa Esmeralda (8%), todos en un radio inferior a 100 km. Las empresas industriales son las más diversificadas, con el 54% vendiendo fuera del partido. El kiwi se exporta a Italia y España."
+  },
+  {
+    "instruction": "¿Cuánta superficie tiene el Partido de General Madariaga?",
+    "input": "",
+    "output": "El Partido de General Madariaga tiene un total de 286.288 hectáreas, distribuidas en 1.331 unidades productivas agropecuarias."
+  },
+  {
+    "instruction": "¿Dónde queda General Madariaga?",
+    "input": "",
+    "output": "El Partido de General Madariaga está ubicado en la provincia de Buenos Aires, Argentina. Limita con Pinamar y la Costa Atlántica, lo que lo posiciona estratégicamente para abastecer mercados turísticos de alta demanda. La ciudad cabecera es General Juan Madariaga."
+  },
+  {
+    "instruction": "¿Qué universidades están presentes en el partido?",
+    "input": "",
+    "output": "El Partido de General Madariaga tiene articulación con la Universidad Nacional de Mar del Plata y la UADE. Los grupos de investigación de la Facultad de Ciencias Agrarias de la UNMdP trabajan con productores locales en temáticas de frontera tecnológica como Internet de las Cosas aplicado a pasturas y ganadería."
+  },
+  {
+    "instruction": "¿Qué tipo de ganadería se practica en el partido?",
+    "input": "",
+    "output": "En el Partido de General Madariaga se practica principalmente ganadería bovina de cría y recría. Las 258.446 cabezas de ganado identificadas en 2022 se distribuyen en vacas (42%), terneros (16%), terneras (16%), vaquillonas (12%), novillitos (8%), novillos (4%) y toros (2%). El noreste del partido, con montes de talas y coronillos, está dedicado principalmente a campos naturales de cría."
+  },
+  {
+    "instruction": "¿Cuál es la producción de kiwi en el partido?",
+    "input": "",
+    "output": "La producción de kiwi se desarrolla en el Paraje Macedo, a 30 km de la ciudad cabecera. Existen más de 100 hectáreas de plantación. La producción anual es de aproximadamente 1.500.000 kg por cosecha. Las empresas productoras exportan la mayor parte de su producción a Italia (Verona y Bérgamo) y España, empleando alrededor de 14 trabajadores permanentes y 30 más en temporada de cosecha."
+  },
+  {
+    "instruction": "¿Cuántas empresas de servicios hay en el partido?",
+    "input": "",
+    "output": "En el Partido de General Madariaga hay 203 establecimientos dedicados a actividades de servicios, que representan el 27% del total de empresas relevadas. Dentro de los servicios, las actividades más importantes son otros servicios (sociales, empresariales, personales, de salud) con el 18,7%, gastronomía y hotelería con el 4,4%, y actividades de esparcimiento con el 4%."
+  },
+  {
+    "instruction": "¿Hay producción porcina en General Madariaga?",
+    "input": "",
+    "output": "Sí. La porcinocultura representa el 30% de las producciones intensivas del Partido de General Madariaga. Según datos de SENASA, se desarrolla en 31 unidades productivas con un total de 931 animales."
+  },
+  {
+    "instruction": "¿Qué verduras se producen en General Madariaga?",
+    "input": "",
+    "output": "La producción hortícola en el Partido de General Madariaga se desarrolla a través de 9 productores con alrededor de 100 hectáreas. Los principales productos son choclo dulce, zapallo, tomate, pimiento y verdura de hoja. También existen 3 productores de verduras en hidroponía que emplean 30 trabajadores permanentes. Las ventas se realizan principalmente en General Madariaga y Pinamar."
+  },
+  {
+    "instruction": "¿Cuánto produce la apicultura en General Madariaga?",
+    "input": "",
+    "output": "La apicultura en el Partido de General Madariaga produce aproximadamente 400.000 kg de miel por campaña, con 20.000 colmenas y un promedio de 20 kg por colmena. La zona produce mieles claras de sabor suave y también una miel monoflora de Coronillo de color oscuro y sabor intenso, ambas de alta calidad."
+  },
+  {
+    "instruction": "¿Qué recomendaciones hace el Mapa Productivo para mejorar el partido?",
+    "input": "",
+    "output": "El Mapa Productivo 2022 hace las siguientes recomendaciones para fortalecer el entramado productivo del Partido de General Madariaga: 1) Acompañar a las empresas en la transformación digital con financiamiento, capacitación y asesoramiento, dado el bajo uso de internet y redes sociales. 2) Intensificar la difusión de líneas de financiamiento como PAC, FITBA y crédito fiscal. 3) Mejorar el acceso a actividades de capacitación para los empleados. 4) Incentivar la incorporación de universitarios y técnicos en las empresas. 5) Implementar actividades de vinculación como las Clínicas Tecnológicas del Ministerio de Producción de la Provincia de Buenos Aires."
+  },
+  {
+    "instruction": "¿Qué son las Clínicas Tecnológicas mencionadas en el informe?",
+    "input": "",
+    "output": "Las Clínicas Tecnológicas son actividades de vinculación para empresas dependientes del Ministerio de Producción de la Provincia de Buenos Aires o de la Universidad Nacional de Mar del Plata. Favorecen la mejora competitiva y potencian la articulación entre empresas y servicios profesionales, tecnológicos y educativos. El Mapa Productivo 2022 las recomienda como herramienta para fortalecer las empresas del Partido de General Madariaga."
+  },
+  {
+    "instruction": "¿Por qué es importante la transformación digital para las empresas del partido?",
+    "input": "",
+    "output": "Porque hay un bajo uso de servicios intensivos en conocimiento, especialmente en la difusión y comercialización de productos. Solo el 35% de las empresas tiene Facebook, el 37% tiene Instagram y apenas el 10% tiene página web. Mejorar la presencia digital podría redundar en un mayor conocimiento de la oferta local y en mayores ventas dentro y fuera del Partido de General Madariaga."
+  },
+  {
+    "instruction": "¿Qué actividades comerciales son las más importantes del partido?",
+    "input": "",
+    "output": "Según el análisis de redes del Mapa Productivo 2022, los rubros más relevantes del sector comercial del Partido de General Madariaga son: venta al por menor en comercios generales (5211), venta al por menor de artículos textiles y confecciones (5232), y venta al por menor de productos varios como artículos de limpieza, deportes, juguetería, vivero, veterinaria y combustible (5239)."
+  },
+  {
+    "instruction": "¿Qué actividad de servicios es la más relevante en el partido?",
+    "input": "",
+    "output": "Según el análisis de redes del Mapa Productivo 2022, la actividad de servicios más relevante del Partido de General Madariaga es la venta de comidas y bebidas (gastronomía), que se vincula tanto con la industria como con el comercio y otros servicios. Un buen ejemplo son las cervecerías artesanales, que fabrican el producto y lo comercializan en locales propios."
+  },
+  {
+    "instruction": "¿Hay cervecerías artesanales en General Madariaga?",
+    "input": "",
+    "output": "Sí. El Mapa Productivo 2022 menciona a las cervecerías artesanales como un buen ejemplo de diversificación vertical en el Partido de General Madariaga: no solo fabrican el producto sino que lo comercializan en locales propios, lo que les permite diversificarse intersectorialmente entre industria, comercio y servicios gastronómicos."
+  },
+  {
+    "instruction": "¿Las empresas del partido tienen certificaciones de calidad?",
+    "input": "",
+    "output": "La certificación de calidad es casi nula en el Partido de General Madariaga: apenas el 3% de las empresas certifica normas de calidad. Las normas más mencionadas son ISO e ISO 9001, junto con las normas del INTI para comercios de combustibles. Esto representa una oportunidad de mejora competitiva para las empresas del partido."
+  },
+  {
+    "instruction": "¿Qué normas de calidad se usan en el partido?",
+    "input": "",
+    "output": "En el Partido de General Madariaga las normas de calidad más mencionadas son ISO e ISO 9001, junto con las normas del INTI para los comercios dedicados a la venta de combustibles. Sin embargo, solo el 3% de las empresas certifica estas normas, lo que indica una baja adopción de estándares de calidad formales."
+  },
+  {
+    "instruction": "¿Las empresas del partido tienen presencia en internet?",
+    "input": "",
+    "output": "La presencia digital de las empresas del Partido de General Madariaga es muy baja: solo el 35% tiene página de Facebook, el 37% tiene presencia en Instagram y apenas el 10% cuenta con página web. Hay muy baja mención a la inversión en software (solo el 8% de las que invirtieron). Esto indica un importante espacio para profundizar la digitalización comercial."
+  },
+  {
+    "instruction": "¿Qué redes sociales usan las empresas de General Madariaga?",
+    "input": "",
+    "output": "Las redes sociales más usadas por las empresas del Partido de General Madariaga son Instagram (37% de las empresas) y Facebook (35%). Solo el 10% tiene página web propia. En general, la presencia digital es baja y representa una oportunidad de mejora para aumentar las ventas dentro y fuera del partido."
+  },
+  {
+    "instruction": "¿Las empresas del partido capacitan a sus empleados?",
+    "input": "",
+    "output": "Solo el 25% de las empresas del Partido de General Madariaga capacitó a su personal en los últimos 3 años. El sector servicios lidera esta actividad (41%), seguido por la industria (37%) y el comercio (17%). En la industria, las capacitaciones son principalmente en temas productivos (68%), seguidos por seguridad e higiene y marketing."
+  },
+  {
+    "instruction": "¿En qué se capacita el personal de las empresas industriales del partido?",
+    "input": "",
+    "output": "En las empresas industriales del Partido de General Madariaga las capacitaciones son principalmente en temas productivos (68%), seguidos por seguridad e higiene y marketing. Solo el 37% de las empresas industriales capacitó a su personal en los últimos 3 años."
+  },
+  {
+    "instruction": "¿Dónde se concentran las empresas en General Madariaga?",
+    "input": "",
+    "output": "Según el análisis georreferenciado del Mapa Productivo 2022, la mayor concentración de empresas del Partido de General Madariaga se encuentra en la zona céntrica urbana. Las empresas comerciales están distribuidas principalmente en el ejido urbano, las industriales tienen mayor dispersión y las de servicios se agrupan cerca de la Terminal de Ómnibus, en la frontera con Pinamar y en la zona este vinculada a la pesca deportiva."
+  },
+  {
+    "instruction": "¿Dónde se ubican las empresas industriales de General Madariaga?",
+    "input": "",
+    "output": "Las 54 empresas industriales del Partido de General Madariaga están distribuidas en dos agrupamientos geográficos principales: uno en la zona urbana y otro en la frontera del partido, aunque con mayor dispersión que el sector comercial. El análisis georreferenciado identifica una zona conveniente para la instalación de centros de asistencia empresarial en el área céntrica."
+  },
+  {
+    "instruction": "¿Dónde se pueden instalar nuevas empresas en el partido?",
+    "input": "",
+    "output": "El análisis de georreferenciación del Mapa Productivo 2022 detectó que la zona céntrica del Partido de General Madariaga es la más conveniente para instalar centros de asistencia empresarial, por su proximidad a todos los sectores (comercio, industria y servicios). Para actividades agropecuarias, los parajes de Juancho y Macedo ofrecen las mejores condiciones agrícolas."
+  },
+  {
+    "instruction": "¿Cómo son los suelos de General Madariaga?",
+    "input": "",
+    "output": "El Partido de General Madariaga tiene suelos con características variadas. Los parajes de Juancho y Macedo ofrecen las mejores condiciones para la agricultura. El noreste del partido presenta montes de talas y coronillos, con suelos más aptos para la ganadería de cría y recría. En general, la región cuenta con suelos pampeanos con buena aptitud para los cultivos de maíz, soja, girasol y trigo."
+  },
+  {
+    "instruction": "¿Hay riesgo de inundaciones en General Madariaga?",
+    "input": "",
+    "output": "Sí. El Partido de General Madariaga puede experimentar excesos hídricos y riesgos de inundaciones, especialmente durante años de El Niño, cuando las precipitaciones son superiores a la media. Durante años de La Niña, en cambio, la región puede experimentar sequías. Esta variabilidad climática requiere planificación cuidadosa en la actividad agropecuaria."
+  },
+  {
+    "instruction": "¿Cómo afecta El Niño a la producción agropecuaria del partido?",
+    "input": "",
+    "output": "Durante años de El Niño, el Partido de General Madariaga puede experimentar excesos hídricos y riesgos de inundaciones que afectan la producción agropecuaria. Durante La Niña, en cambio, pueden ocurrir sequías. Esta variabilidad interanual requiere que los productores planifiquen cuidadosamente el manejo del agua y los cultivos para reducir riesgos."
+  },
+  {
+    "instruction": "¿Qué es el Paraje Macedo?",
+    "input": "",
+    "output": "El Paraje Macedo es una zona rural del Partido de General Madariaga ubicada a 30 km de la ciudad cabecera. Es reconocida por su aptitud agrícola y es donde se desarrolla la producción de kiwi del partido, con más de 100 hectáreas de plantación pertenecientes a las firmas Manzanar de Macedo S.A. y El Kiwal de Macedo S.A., que exportan a Italia y España."
+  },
+  {
+    "instruction": "¿Qué es el Paraje Juancho?",
+    "input": "",
+    "output": "El Paraje Juancho es una zona rural del Partido de General Madariaga con buena aptitud agrícola. Junto con el Paraje Macedo, representa una de las áreas con mejores condiciones para el desarrollo de actividades agrícolas intensivas dentro del partido."
+  },
+  {
+    "instruction": "¿En qué invierten principalmente las empresas del partido?",
+    "input": "",
+    "output": "Las principales finalidades de inversión de las empresas del Partido de General Madariaga son: mejorar y ampliar la infraestructura (47%), mantener stocks (43%), adquirir maquinaria y equipo (31%) y mejorar la capacidad comercial (29%). La adquisición de software recibe muy poca inversión (8%), lo que indica una oportunidad para la digitalización."
+  },
+  {
+    "instruction": "¿Cómo financian las inversiones las empresas del partido?",
+    "input": "",
+    "output": "El 90% de las inversiones de las empresas del Partido de General Madariaga se financia con fondos propios. Solo el 7% accede a créditos de la banca pública y el 3% usa aportes de socios. El financiamiento a través de bancos privados, proveedores o programas públicos es muy bajo. Esto sugiere una oportunidad para políticas de financiamiento desde el sector público."
+  },
+  {
+    "instruction": "¿Cómo se hizo el Mapa Productivo de General Madariaga?",
+    "input": "",
+    "output": "El Mapa Productivo 2022 del Partido de General Madariaga fue elaborado por la Facultad de Ciencias Económicas y Sociales de la Universidad Nacional de Mar del Plata junto con la Municipalidad. Para el sector industrial, comercial y de servicios se realizó un relevamiento territorial entre agosto de 2021 y febrero de 2022, con encuestas a 748 establecimientos. Para el sector agropecuario se procesó información secundaria de fuentes como el Ministerio de Agricultura, la Fundación de Sanidad Animal y el Municipio."
+  },
+  {
+    "instruction": "¿Cuántas empresas se relevaron para el Mapa Productivo?",
+    "input": "",
+    "output": "Para el Mapa Productivo 2022 se relevaron 748 establecimientos del Partido de General Madariaga: 54 industriales, 491 comerciales y 203 de servicios. Adicionalmente se identificaron 1.331 unidades productivas agropecuarias y 102 de producciones intensivas, totalizando 2.283 establecimientos vinculados a la actividad productiva."
+  },
+  {
+    "instruction": "¿Las empresas del partido esperan crecer?",
+    "input": "",
+    "output": "Sí. Las expectativas de las empresas del Partido de General Madariaga son optimistas: el 43% espera que sus ventas aumenten por encima de la inflación y el 41% espera mantenerlas en términos reales. Respecto al empleo, el 19% espera aumentar su personal y el 70% espera mantenerlo. La industria es el sector con mayores expectativas de crecimiento."
+  },
+  {
+    "instruction": "¿Cuándo fue creada la mayoría de las empresas del partido?",
+    "input": "",
+    "output": "La mayor parte de las empresas del Partido de General Madariaga fueron creadas entre 2001 y 2016 (41%). Un tercio tiene 5 años o menos de vida, y la mitad de estas fueron creadas entre 2020 y 2021, durante el período de pandemia COVID-19. Solo el 17% son anteriores al año 2001. La edad promedio de las empresas es de 13 años."
+  },
+  {
+    "instruction": "¿Hay pesca deportiva en General Madariaga?",
+    "input": "",
+    "output": "Sí. El análisis georreferenciado del Mapa Productivo 2022 identifica un agrupamiento de empresas de servicios en la zona este del Partido de General Madariaga vinculado a la pesca deportiva. Esta actividad representa una oportunidad turística complementaria a la producción agropecuaria del partido."
+  },
+  {
+    "instruction": "¿Hay turismo en General Madariaga?",
+    "input": "",
+    "output": "El Partido de General Madariaga tiene potencial turístico por su proximidad a Pinamar y la Costa Atlántica. El análisis del Mapa Productivo 2022 identifica actividades de gastronomía y hotelería (4,4% de las empresas) y actividades de esparcimiento, culturales, de juego y deportivas (4%). También existe actividad de pesca deportiva en la zona este del partido."
+  },
+  {
+    "instruction": "¿Cómo evolucionó la siembra de maíz en los últimos años?",
+    "input": "",
+    "output": "La superficie sembrada de maíz en el Partido de General Madariaga se mantuvo relativamente estable en torno a las 17.800 hectáreas entre 2016/2017 y 2020/2021, con un pico de 23.000 hectáreas en 2018/2019. Los rindes mejoraron de 7.600 kg/ha en 2016/2017 a 8.500 kg/ha en 2020/2021."
+  },
+  {
+    "instruction": "¿Cómo evolucionó la siembra de girasol en los últimos años?",
+    "input": "",
+    "output": "La superficie sembrada de girasol en el Partido de General Madariaga mostró una tendencia decreciente: de 15.500 hectáreas en 2016/2017 bajó a 7.000 hectáreas en 2019/2020, con una leve recuperación a 8.800 hectáreas en 2020/2021. Los rindes variaron entre 2.300 y 3.200 kg/ha en ese período."
+  },
+  {
+    "instruction": "¿Cómo evolucionó la siembra de soja en los últimos años?",
+    "input": "",
+    "output": "La superficie sembrada de soja (primera y segunda) en el Partido de General Madariaga mostró una tendencia decreciente: de 22.800 hectáreas totales en 2016/2017 bajó a 10.000 hectáreas en 2020/2021. La soja de primera pasó de 15.000 a 4.500 hectáreas y la de segunda de 7.800 a 5.500 hectáreas en ese período."
+  }
+]

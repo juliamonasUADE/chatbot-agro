@@ -1,0 +1,208 @@
+año,provincia,provincia_id,tipo_juridico,EAP_sin_limites
+2002,Buenos Aires,06,Personas físicas,9
+2002,Catamarca,10,Personas físicas,2 377
+2002,Chaco,22,Personas físicas,1 125
+2002,Chubut,26,Personas físicas,121
+2002,Córdoba,14,Personas físicas,560
+2002,Corrientes,18,Personas físicas,558
+2002,Entre Ríos,30,Personas físicas,0
+2002,Formosa,34,Personas físicas,941
+2002,Jujuy,38,Personas físicas,4 622
+2002,La Pampa,42,Personas físicas,1
+2002,La Rioja,46,Personas físicas,2 171
+2002,Mendoza,50,Personas físicas,2 216
+2002,Misiones,54,Personas físicas,817
+2002,Neuquén,58,Personas físicas,3 110
+2002,Río Negro,62,Personas físicas,389
+2002,Salta,66,Personas físicas,4 350
+2002,San Juan,70,Personas físicas,540
+2002,San Luis,74,Personas físicas,76
+2002,Santa Cruz,78,Personas físicas,2
+2002,Santa Fe,82,Personas físicas,67
+2002,Santiago del Estero,86,Personas físicas,9 973
+2002,Tierra del Fuego,94,Personas físicas,0
+2002,Tucumán,90,Personas físicas,319
+2002,Buenos Aires,06,Sociedades de hecho,0
+2002,Catamarca,10,Sociedades de hecho,66
+2002,Chaco,22,Sociedades de hecho,72
+2002,Chubut,26,Sociedades de hecho,35
+2002,Córdoba,14,Sociedades de hecho,46
+2002,Corrientes,18,Sociedades de hecho,12
+2002,Entre Ríos,30,Sociedades de hecho,0
+2002,Formosa,34,Sociedades de hecho,15
+2002,Jujuy,38,Sociedades de hecho,298
+2002,La Pampa,42,Sociedades de hecho,0
+2002,La Rioja,46,Sociedades de hecho,93
+2002,Mendoza,50,Sociedades de hecho,108
+2002,Misiones,54,Sociedades de hecho,65
+2002,Neuquén,58,Sociedades de hecho,250
+2002,Río Negro,62,Sociedades de hecho,72
+2002,Salta,66,Sociedades de hecho,366
+2002,San Juan,70,Sociedades de hecho,39
+2002,San Luis,74,Sociedades de hecho,5
+2002,Santa Cruz,78,Sociedades de hecho,1
+2002,Santa Fe,82,Sociedades de hecho,2
+2002,Santiago del Estero,86,Sociedades de hecho,138
+2002,Tierra del Fuego,94,Sociedades de hecho,0
+2002,Tucumán,90,Sociedades de hecho,14
+2002,Buenos Aires,06,Sociedades accidentales,0
+2002,Catamarca,10,Sociedades accidentales,0
+2002,Chaco,22,Sociedades accidentales,0
+2002,Chubut,26,Sociedades accidentales,0
+2002,Córdoba,14,Sociedades accidentales,0
+2002,Corrientes,18,Sociedades accidentales,0
+2002,Entre Ríos,30,Sociedades accidentales,0
+2002,Formosa,34,Sociedades accidentales,1
+2002,Jujuy,38,Sociedades accidentales,0
+2002,La Pampa,42,Sociedades accidentales,0
+2002,La Rioja,46,Sociedades accidentales,0
+2002,Mendoza,50,Sociedades accidentales,0
+2002,Misiones,54,Sociedades accidentales,0
+2002,Neuquén,58,Sociedades accidentales,3
+2002,Río Negro,62,Sociedades accidentales,7
+2002,Salta,66,Sociedades accidentales,2
+2002,San Juan,70,Sociedades accidentales,0
+2002,San Luis,74,Sociedades accidentales,0
+2002,Santa Cruz,78,Sociedades accidentales,0
+2002,Santa Fe,82,Sociedades accidentales,0
+2002,Santiago del Estero,86,Sociedades accidentales,1
+2002,Tierra del Fuego,94,Sociedades accidentales,0
+2002,Tucumán,90,Sociedades accidentales,0
+2002,Buenos Aires,06,Sociedades de responsabilidad limitada,0
+2002,Catamarca,10,Sociedades de responsabilidad limitada,0
+2002,Chaco,22,Sociedades de responsabilidad limitada,2
+2002,Chubut,26,Sociedades de responsabilidad limitada,0
+2002,Córdoba,14,Sociedades de responsabilidad limitada,0
+2002,Corrientes,18,Sociedades de responsabilidad limitada,0
+2002,Entre Ríos,30,Sociedades de responsabilidad limitada,0
+2002,Formosa,34,Sociedades de responsabilidad limitada,0
+2002,Jujuy,38,Sociedades de responsabilidad limitada,0
+2002,La Pampa,42,Sociedades de responsabilidad limitada,0
+2002,La Rioja,46,Sociedades de responsabilidad limitada,0
+2002,Mendoza,50,Sociedades de responsabilidad limitada,0
+2002,Misiones,54,Sociedades de responsabilidad limitada,0
+2002,Neuquén,58,Sociedades de responsabilidad limitada,0
+2002,Río Negro,62,Sociedades de responsabilidad limitada,0
+2002,Salta,66,Sociedades de responsabilidad limitada,0
+2002,San Juan,70,Sociedades de responsabilidad limitada,1
+2002,San Luis,74,Sociedades de responsabilidad limitada,0
+2002,Santa Cruz,78,Sociedades de responsabilidad limitada,0
+2002,Santa Fe,82,Sociedades de responsabilidad limitada,0
+2002,Santiago del Estero,86,Sociedades de responsabilidad limitada,0
+2002,Tierra del Fuego,94,Sociedades de responsabilidad limitada,0
+2002,Tucumán,90,Sociedades de responsabilidad limitada,0
+2002,Buenos Aires,06,Sociedades anónimas y en comandita por acciones,0
+2002,Catamarca,10,Sociedades anónimas y en comandita por acciones,0
+2002,Chaco,22,Sociedades anónimas y en comandita por acciones,4
+2002,Chubut,26,Sociedades anónimas y en comandita por acciones,0
+2002,Córdoba,14,Sociedades anónimas y en comandita por acciones,0
+2002,Corrientes,18,Sociedades anónimas y en comandita por acciones,1
+2002,Entre Ríos,30,Sociedades anónimas y en comandita por acciones,0
+2002,Formosa,34,Sociedades anónimas y en comandita por acciones,0
+2002,Jujuy,38,Sociedades anónimas y en comandita por acciones,0
+2002,La Pampa,42,Sociedades anónimas y en comandita por acciones,0
+2002,La Rioja,46,Sociedades anónimas y en comandita por acciones,0
+2002,Mendoza,50,Sociedades anónimas y en comandita por acciones,3
+2002,Misiones,54,Sociedades anónimas y en comandita por acciones,0
+2002,Neuquén,58,Sociedades anónimas y en comandita por acciones,3
+2002,Río Negro,62,Sociedades anónimas y en comandita por acciones,0
+2002,Salta,66,Sociedades anónimas y en comandita por acciones,4
+2002,San Juan,70,Sociedades anónimas y en comandita por acciones,2
+2002,San Luis,74,Sociedades anónimas y en comandita por acciones,0
+2002,Santa Cruz,78,Sociedades anónimas y en comandita por acciones,0
+2002,Santa Fe,82,Sociedades anónimas y en comandita por acciones,0
+2002,Santiago del Estero,86,Sociedades anónimas y en comandita por acciones,0
+2002,Tierra del Fuego,94,Sociedades anónimas y en comandita por acciones,0
+2002,Tucumán,90,Sociedades anónimas y en comandita por acciones,0
+2002,Buenos Aires,06,Cooperativas,0
+2002,Catamarca,10,Cooperativas,0
+2002,Chaco,22,Cooperativas,1
+2002,Chubut,26,Cooperativas,0
+2002,Córdoba,14,Cooperativas,0
+2002,Corrientes,18,Cooperativas,0
+2002,Entre Ríos,30,Cooperativas,0
+2002,Formosa,34,Cooperativas,0
+2002,Jujuy,38,Cooperativas,1
+2002,La Pampa,42,Cooperativas,0
+2002,La Rioja,46,Cooperativas,0
+2002,Mendoza,50,Cooperativas,0
+2002,Misiones,54,Cooperativas,0
+2002,Neuquén,58,Cooperativas,1
+2002,Río Negro,62,Cooperativas,1
+2002,Salta,66,Cooperativas,0
+2002,San Juan,70,Cooperativas,0
+2002,San Luis,74,Cooperativas,0
+2002,Santa Cruz,78,Cooperativas,0
+2002,Santa Fe,82,Cooperativas,0
+2002,Santiago del Estero,86,Cooperativas,3
+2002,Tierra del Fuego,94,Cooperativas,0
+2002,Tucumán,90,Cooperativas,0
+2002,Buenos Aires,06,Instituciones privadas sin fines de lucro,0
+2002,Catamarca,10,Instituciones privadas sin fines de lucro,0
+2002,Chaco,22,Instituciones privadas sin fines de lucro,0
+2002,Chubut,26,Instituciones privadas sin fines de lucro,0
+2002,Córdoba,14,Instituciones privadas sin fines de lucro,0
+2002,Corrientes,18,Instituciones privadas sin fines de lucro,0
+2002,Entre Ríos,30,Instituciones privadas sin fines de lucro,0
+2002,Formosa,34,Instituciones privadas sin fines de lucro,0
+2002,Jujuy,38,Instituciones privadas sin fines de lucro,0
+2002,La Pampa,42,Instituciones privadas sin fines de lucro,0
+2002,La Rioja,46,Instituciones privadas sin fines de lucro,0
+2002,Mendoza,50,Instituciones privadas sin fines de lucro,0
+2002,Misiones,54,Instituciones privadas sin fines de lucro,0
+2002,Neuquén,58,Instituciones privadas sin fines de lucro,0
+2002,Río Negro,62,Instituciones privadas sin fines de lucro,1
+2002,Salta,66,Instituciones privadas sin fines de lucro,0
+2002,San Juan,70,Instituciones privadas sin fines de lucro,0
+2002,San Luis,74,Instituciones privadas sin fines de lucro,0
+2002,Santa Cruz,78,Instituciones privadas sin fines de lucro,0
+2002,Santa Fe,82,Instituciones privadas sin fines de lucro,0
+2002,Santiago del Estero,86,Instituciones privadas sin fines de lucro,0
+2002,Tierra del Fuego,94,Instituciones privadas sin fines de lucro,0
+2002,Tucumán,90,Instituciones privadas sin fines de lucro,1
+2002,Buenos Aires,06,Entidades públicas,0
+2002,Catamarca,10,Entidades públicas,0
+2002,Chaco,22,Entidades públicas,0
+2002,Chubut,26,Entidades públicas,0
+2002,Córdoba,14,Entidades públicas,0
+2002,Corrientes,18,Entidades públicas,0
+2002,Entre Ríos,30,Entidades públicas,0
+2002,Formosa,34,Entidades públicas,9
+2002,Jujuy,38,Entidades públicas,0
+2002,La Pampa,42,Entidades públicas,0
+2002,La Rioja,46,Entidades públicas,0
+2002,Mendoza,50,Entidades públicas,0
+2002,Misiones,54,Entidades públicas,1
+2002,Neuquén,58,Entidades públicas,2
+2002,Río Negro,62,Entidades públicas,0
+2002,Salta,66,Entidades públicas,0
+2002,San Juan,70,Entidades públicas,0
+2002,San Luis,74,Entidades públicas,0
+2002,Santa Cruz,78,Entidades públicas,0
+2002,Santa Fe,82,Entidades públicas,0
+2002,Santiago del Estero,86,Entidades públicas,1
+2002,Tierra del Fuego,94,Entidades públicas,0
+2002,Tucumán,90,Entidades públicas,0
+2002,Buenos Aires,06,Otros sin discriminar,0
+2002,Catamarca,10,Otros sin discriminar,1
+2002,Chaco,22,Otros sin discriminar,0
+2002,Chubut,26,Otros sin discriminar,0
+2002,Córdoba,14,Otros sin discriminar,0
+2002,Corrientes,18,Otros sin discriminar,0
+2002,Entre Ríos,30,Otros sin discriminar,0
+2002,Formosa,34,Otros sin discriminar,2
+2002,Jujuy,38,Otros sin discriminar,1
+2002,La Pampa,42,Otros sin discriminar,0
+2002,La Rioja,46,Otros sin discriminar,0
+2002,Mendoza,50,Otros sin discriminar,0
+2002,Misiones,54,Otros sin discriminar,0
+2002,Neuquén,58,Otros sin discriminar,1
+2002,Río Negro,62,Otros sin discriminar,2
+2002,Salta,66,Otros sin discriminar,0
+2002,San Juan,70,Otros sin discriminar,0
+2002,San Luis,74,Otros sin discriminar,0
+2002,Santa Cruz,78,Otros sin discriminar,0
+2002,Santa Fe,82,Otros sin discriminar,0
+2002,Santiago del Estero,86,Otros sin discriminar,3
+2002,Tierra del Fuego,94,Otros sin discriminar,0
+2002,Tucumán,90,Otros sin discriminar,1

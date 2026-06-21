@@ -1,0 +1,512 @@
+pais_id,pais,provincia_id,provincia,departamento_id,departamento,link,tot_eap,eap_cld,p_eapcld,eap_cld_su,eap_sld,p_eapsld
+32,Argentina,6,Buenos Aires,7,Adolfo Alsina,6007,589.00,589.00,100.00,312872.40,-1.00,-1.00
+32,Argentina,6,Buenos Aires,14,Adolfo Gonzales Chaves,6014,185.00,185.00,100.00,190567.00,-1.00,-1.00
+32,Argentina,6,Buenos Aires,21,Alberti,6021,135.00,135.00,100.00,75358.60,-1.00,-1.00
+32,Argentina,6,Buenos Aires,28,Almirante Brown,6028,17.00,17.00,100.00,304.40,-1.00,-1.00
+32,Argentina,6,Buenos Aires,35,Avellaneda,6035,-1.00,-1.00,-1.00,-1.00,-1.00,-1.00
+32,Argentina,6,Buenos Aires,42,Ayacucho,6042,661.00,661.00,100.00,425878.50,-1.00,-1.00
+32,Argentina,6,Buenos Aires,49,Azul,6049,513.00,513.00,100.00,496066.50,-1.00,-1.00
+32,Argentina,6,Buenos Aires,56,Bahia Blanca,6056,287.00,287.00,100.00,204110.10,-1.00,-1.00
+32,Argentina,6,Buenos Aires,63,Balcarce,6063,512.00,512.00,100.00,292502.10,-1.00,-1.00
+32,Argentina,6,Buenos Aires,70,Baradero,6070,104.00,104.00,100.00,50297.60,-1.00,-1.00
+32,Argentina,6,Buenos Aires,77,Arrecifes,6077,146.00,146.00,100.00,68017.40,-1.00,-1.00
+32,Argentina,6,Buenos Aires,84,Benito Juarez,6084,251.00,251.00,100.00,279343.40,-1.00,-1.00
+32,Argentina,6,Buenos Aires,91,Berazategui,6091,88.00,88.00,100.00,1411.70,-1.00,-1.00
+32,Argentina,6,Buenos Aires,98,Berisso,6098,31.00,31.00,100.00,4800.10,-1.00,-1.00
+32,Argentina,6,Buenos Aires,105,Bolivar,6105,1249.00,1249.00,100.00,380841.30,-1.00,-1.00
+32,Argentina,6,Buenos Aires,112,Bragado,6112,378.00,378.00,100.00,153314.90,-1.00,-1.00
+32,Argentina,6,Buenos Aires,119,Brandsen,6119,234.00,232.00,99.15,72016.60,2.00,0.85
+32,Argentina,6,Buenos Aires,126,Campana,6126,116.00,116.00,100.00,46845.80,-1.00,-1.00
+32,Argentina,6,Buenos Aires,134,Canuelas,6134,269.00,269.00,100.00,69486.30,-1.00,-1.00
+32,Argentina,6,Buenos Aires,140,Capitan Sarmiento,6140,58.00,58.00,100.00,29188.50,-1.00,-1.00
+32,Argentina,6,Buenos Aires,147,Carlos Casares,6147,383.00,383.00,100.00,298560.20,-1.00,-1.00
+32,Argentina,6,Buenos Aires,154,Carlos Tejedor,6154,526.00,526.00,100.00,264382.60,-1.00,-1.00
+32,Argentina,6,Buenos Aires,161,Carmen De Areco,6161,70.00,70.00,100.00,42200.20,-1.00,-1.00
+32,Argentina,6,Buenos Aires,168,Castelli,6168,80.00,80.00,100.00,104424.60,-1.00,-1.00
+32,Argentina,6,Buenos Aires,175,Colon,6175,314.00,314.00,100.00,89756.30,-1.00,-1.00
+32,Argentina,6,Buenos Aires,182,Coronel De Marina L Rosales,6182,122.00,120.00,98.36,87368.40,2.00,1.64
+32,Argentina,6,Buenos Aires,189,Coronel Dorrego,6189,400.00,400.00,100.00,436760.60,-1.00,-1.00
+32,Argentina,6,Buenos Aires,196,Coronel Pringles,6196,306.00,306.00,100.00,260318.10,-1.00,-1.00
+32,Argentina,6,Buenos Aires,203,Coronel Suarez,6203,668.00,668.00,100.00,470798.40,-1.00,-1.00
+32,Argentina,6,Buenos Aires,210,Chacabuco,6210,220.00,220.00,100.00,90907.90,-1.00,-1.00
+32,Argentina,6,Buenos Aires,217,Chascomus,6217,603.00,603.00,100.00,270859.40,-1.00,-1.00
+32,Argentina,6,Buenos Aires,224,Chivilcoy,6224,370.00,370.00,100.00,128608.40,-1.00,-1.00
+32,Argentina,6,Buenos Aires,231,Daireaux,6231,241.00,241.00,100.00,163888.10,-1.00,-1.00
+32,Argentina,6,Buenos Aires,238,Dolores,6238,42.00,42.00,100.00,28680.70,-1.00,-1.00
+32,Argentina,6,Buenos Aires,245,Ensenada,6245,7.00,7.00,100.00,774.20,-1.00,-1.00
+32,Argentina,6,Buenos Aires,252,Escobar,6252,144.00,144.00,100.00,2027.10,-1.00,-1.00
+32,Argentina,6,Buenos Aires,260,Esteban Echeverria,6260,-1.00,-1.00,-1.00,-1.00,-1.00,-1.00
+32,Argentina,6,Buenos Aires,266,Exaltacion De La Cruz,6266,76.00,76.00,100.00,12738.30,-1.00,-1.00
+32,Argentina,6,Buenos Aires,270,Ezeiza,6270,10.00,10.00,100.00,709.40,-1.00,-1.00
+32,Argentina,6,Buenos Aires,274,Florencio Varela,6274,132.00,132.00,100.00,1478.00,-1.00,-1.00
+32,Argentina,6,Buenos Aires,277,Florentino Ameghino,6277,114.00,114.00,100.00,85215.30,-1.00,-1.00
+32,Argentina,6,Buenos Aires,280,General Alvarado,6280,120.00,120.00,100.00,97843.90,-1.00,-1.00
+32,Argentina,6,Buenos Aires,287,General Alvear,6287,174.00,174.00,100.00,132708.00,-1.00,-1.00
+32,Argentina,6,Buenos Aires,294,General Arenales,6294,432.00,432.00,100.00,115735.20,-1.00,-1.00
+32,Argentina,6,Buenos Aires,301,General Belgrano,6301,193.00,193.00,100.00,133724.80,-1.00,-1.00
+32,Argentina,6,Buenos Aires,308,General Guido,6308,12.00,12.00,100.00,11778.50,-1.00,-1.00
+32,Argentina,6,Buenos Aires,315,General Juan Madariaga,6315,219.00,219.00,100.00,186216.20,-1.00,-1.00
+32,Argentina,6,Buenos Aires,322,General La Madrid,6322,290.00,290.00,100.00,254090.20,-1.00,-1.00
+32,Argentina,6,Buenos Aires,329,General Las Heras,6329,146.00,146.00,100.00,35430.20,-1.00,-1.00
+32,Argentina,6,Buenos Aires,336,General Lavalle,6336,114.00,114.00,100.00,101747.30,-1.00,-1.00
+32,Argentina,6,Buenos Aires,343,General Paz,6343,356.00,356.00,100.00,80224.20,-1.00,-1.00
+32,Argentina,6,Buenos Aires,351,General Pinto,6351,235.00,235.00,100.00,184577.40,-1.00,-1.00
+32,Argentina,6,Buenos Aires,357,General Pueyrredon,6357,239.00,239.00,100.00,103214.10,-1.00,-1.00
+32,Argentina,6,Buenos Aires,364,General Rodriguez,6364,83.00,83.00,100.00,11950.80,-1.00,-1.00
+32,Argentina,6,Buenos Aires,371,General San Martin,6371,-1.00,-1.00,-1.00,-1.00,-1.00,-1.00
+32,Argentina,6,Buenos Aires,385,General Viamonte,6385,170.00,170.00,100.00,120486.20,-1.00,-1.00
+32,Argentina,6,Buenos Aires,392,General Villegas,6392,719.00,719.00,100.00,544748.70,-1.00,-1.00
+32,Argentina,6,Buenos Aires,399,Guamini,6399,210.00,210.00,100.00,155081.70,-1.00,-1.00
+32,Argentina,6,Buenos Aires,406,Hipolito Yrigoyen,6406,100.00,100.00,100.00,89815.90,-1.00,-1.00
+32,Argentina,6,Buenos Aires,408,Hurlingham,6408,-1.00,-1.00,-1.00,-1.00,-1.00,-1.00
+32,Argentina,6,Buenos Aires,410,Ituzaingo,6410,-1.00,-1.00,-1.00,-1.00,-1.00,-1.00
+32,Argentina,6,Buenos Aires,412,Jose C Paz,6412,50.00,50.00,100.00,71.60,-1.00,-1.00
+32,Argentina,6,Buenos Aires,413,Junin,6413,376.00,376.00,100.00,132856.00,-1.00,-1.00
+32,Argentina,6,Buenos Aires,420,La Costa,6420,36.00,36.00,100.00,10652.40,-1.00,-1.00
+32,Argentina,6,Buenos Aires,427,La Matanza,6427,33.00,33.00,100.00,2578.50,-1.00,-1.00
+32,Argentina,6,Buenos Aires,434,Lanus,6434,-1.00,-1.00,-1.00,-1.00,-1.00,-1.00
+32,Argentina,6,Buenos Aires,441,La Plata,6441,971.00,971.00,100.00,33490.60,-1.00,-1.00
+32,Argentina,6,Buenos Aires,448,Laprida,6448,330.00,321.00,97.27,236481.50,9.00,2.73
+32,Argentina,6,Buenos Aires,455,Las Flores,6455,503.00,494.00,98.21,254602.80,9.00,1.79
+32,Argentina,6,Buenos Aires,462,Leandro N. Alem,6462,176.00,176.00,100.00,121040.60,-1.00,-1.00
+32,Argentina,6,Buenos Aires,469,Lincoln,6469,697.00,697.00,100.00,358306.50,-1.00,-1.00
+32,Argentina,6,Buenos Aires,476,Loberia,6476,475.00,475.00,100.00,333236.30,-1.00,-1.00
+32,Argentina,6,Buenos Aires,483,Lobos,6483,338.00,338.00,100.00,96946.60,-1.00,-1.00
+32,Argentina,6,Buenos Aires,490,Lomas De Zamora,6490,-1.00,-1.00,-1.00,-1.00,-1.00,-1.00
+32,Argentina,6,Buenos Aires,497,Lujan,6497,132.00,132.00,100.00,24992.40,-1.00,-1.00
+32,Argentina,6,Buenos Aires,505,Magdalena,6505,414.00,414.00,100.00,157823.00,-1.00,-1.00
+32,Argentina,6,Buenos Aires,511,Maipu,6511,200.00,200.00,100.00,247217.80,-1.00,-1.00
+32,Argentina,6,Buenos Aires,515,Malvinas Argentinas,6515,-1.00,-1.00,-1.00,-1.00,-1.00,-1.00
+32,Argentina,6,Buenos Aires,518,Mar Chiquita,6518,115.00,115.00,100.00,86126.60,-1.00,-1.00
+32,Argentina,6,Buenos Aires,525,Marcos Paz,6525,194.00,194.00,100.00,26211.70,-1.00,-1.00
+32,Argentina,6,Buenos Aires,532,Mercedes,6532,200.00,200.00,100.00,54046.40,-1.00,-1.00
+32,Argentina,6,Buenos Aires,539,Merlo,6539,1.00,1.00,100.00,2.00,-1.00,-1.00
+32,Argentina,6,Buenos Aires,547,Monte,6547,182.00,182.00,100.00,106059.40,-1.00,-1.00
+32,Argentina,6,Buenos Aires,553,Monte Hermoso,6553,2.00,2.00,100.00,4838.00,-1.00,-1.00
+32,Argentina,6,Buenos Aires,560,Moreno,6560,195.00,195.00,100.00,591.40,-1.00,-1.00
+32,Argentina,6,Buenos Aires,568,Moron,6568,-1.00,-1.00,-1.00,-1.00,-1.00,-1.00
+32,Argentina,6,Buenos Aires,574,Navarro,6574,267.00,267.00,100.00,95149.60,-1.00,-1.00
+32,Argentina,6,Buenos Aires,581,Necochea,6581,396.00,396.00,100.00,296348.80,-1.00,-1.00
+32,Argentina,6,Buenos Aires,588,9 De Julio,6588,774.00,774.00,100.00,328610.70,-1.00,-1.00
+32,Argentina,6,Buenos Aires,595,Olavarria,6595,752.00,752.00,100.00,678645.80,-1.00,-1.00
+32,Argentina,6,Buenos Aires,602,Patagones,6602,627.00,627.00,100.00,928370.50,-1.00,-1.00
+32,Argentina,6,Buenos Aires,609,Pehuajo,6609,536.00,536.00,100.00,344977.60,-1.00,-1.00
+32,Argentina,6,Buenos Aires,616,Pellegrini,6616,138.00,138.00,100.00,67031.40,-1.00,-1.00
+32,Argentina,6,Buenos Aires,623,Pergamino,6623,694.00,694.00,100.00,239408.90,-1.00,-1.00
+32,Argentina,6,Buenos Aires,630,Pila,6630,212.00,212.00,100.00,220304.50,-1.00,-1.00
+32,Argentina,6,Buenos Aires,638,Pilar,6638,104.00,104.00,100.00,405.30,-1.00,-1.00
+32,Argentina,6,Buenos Aires,644,Pinamar,6644,-1.00,-1.00,-1.00,-1.00,-1.00,-1.00
+32,Argentina,6,Buenos Aires,648,Presidente Peron,6648,20.00,20.00,100.00,1607.00,-1.00,-1.00
+32,Argentina,6,Buenos Aires,651,Puan,6651,841.00,840.00,99.88,536233.50,1.00,0.12
+32,Argentina,6,Buenos Aires,655,Punta Indio,6655,222.00,222.00,100.00,110038.60,-1.00,-1.00
+32,Argentina,6,Buenos Aires,658,Quilmes,6658,-1.00,-1.00,-1.00,-1.00,-1.00,-1.00
+32,Argentina,6,Buenos Aires,665,Ramallo,6665,144.00,144.00,100.00,48657.80,-1.00,-1.00
+32,Argentina,6,Buenos Aires,672,Rauch,6672,778.00,778.00,100.00,345968.40,-1.00,-1.00
+32,Argentina,6,Buenos Aires,679,Rivadavia,6679,304.00,304.00,100.00,313825.50,-1.00,-1.00
+32,Argentina,6,Buenos Aires,686,Rojas,6686,438.00,438.00,100.00,148568.50,-1.00,-1.00
+32,Argentina,6,Buenos Aires,693,Roque Perez,6693,273.00,273.00,100.00,96511.40,-1.00,-1.00
+32,Argentina,6,Buenos Aires,700,Saavedra,6700,459.00,457.00,99.56,281193.50,2.00,0.44
+32,Argentina,6,Buenos Aires,707,Saladillo,6707,1075.00,1075.00,100.00,353796.20,-1.00,-1.00
+32,Argentina,6,Buenos Aires,714,Salto,6714,344.00,344.00,100.00,99643.50,-1.00,-1.00
+32,Argentina,6,Buenos Aires,721,Salliquelo,6721,9.00,9.00,100.00,5277.00,-1.00,-1.00
+32,Argentina,6,Buenos Aires,728,San Andres De Giles,6728,221.00,221.00,100.00,83181.60,-1.00,-1.00
+32,Argentina,6,Buenos Aires,735,San Antonio De Areco,6735,62.00,62.00,100.00,32584.90,-1.00,-1.00
+32,Argentina,6,Buenos Aires,742,San Cayetano,6742,242.00,242.00,100.00,164637.50,-1.00,-1.00
+32,Argentina,6,Buenos Aires,749,San Fernando (Islas),0,0.00,0.00,0.00,0.00,0.00,0.00
+32,Argentina,6,Buenos Aires,749,San Fernando,6749,64.00,64.00,100.00,14446.50,-1.00,-1.00
+32,Argentina,6,Buenos Aires,756,San Isidro,6756,-1.00,-1.00,-1.00,-1.00,-1.00,-1.00
+32,Argentina,6,Buenos Aires,760,San Miguel,6760,-1.00,-1.00,-1.00,-1.00,-1.00,-1.00
+32,Argentina,6,Buenos Aires,763,San Nicolas,6763,207.00,207.00,100.00,40897.50,-1.00,-1.00
+32,Argentina,6,Buenos Aires,770,San Pedro,6770,331.00,331.00,100.00,62487.30,-1.00,-1.00
+32,Argentina,6,Buenos Aires,778,San Vicente,6778,100.00,100.00,100.00,27605.20,-1.00,-1.00
+32,Argentina,6,Buenos Aires,784,Suipacha,6784,186.00,186.00,100.00,77230.80,-1.00,-1.00
+32,Argentina,6,Buenos Aires,791,Tandil,6791,684.00,684.00,100.00,487915.50,-1.00,-1.00
+32,Argentina,6,Buenos Aires,798,Tapalque,6798,119.00,119.00,100.00,111675.60,-1.00,-1.00
+32,Argentina,6,Buenos Aires,805,Tigre,6805,3.00,3.00,100.00,82.00,-1.00,-1.00
+32,Argentina,6,Buenos Aires,812,Tordillo,6812,72.00,72.00,100.00,101953.00,-1.00,-1.00
+32,Argentina,6,Buenos Aires,819,Tornquist,6819,448.00,448.00,100.00,380479.30,-1.00,-1.00
+32,Argentina,6,Buenos Aires,826,Trenque Lauquen,6826,178.00,178.00,100.00,200733.90,-1.00,-1.00
+32,Argentina,6,Buenos Aires,833,Tres Arroyos,6833,493.00,493.00,100.00,383965.60,-1.00,-1.00
+32,Argentina,6,Buenos Aires,840,Tres De Febrero,6840,-1.00,-1.00,-1.00,-1.00,-1.00,-1.00
+32,Argentina,6,Buenos Aires,847,Tres Lomas,6847,129.00,129.00,100.00,62018.00,-1.00,-1.00
+32,Argentina,6,Buenos Aires,854,25 De Mayo,6854,602.00,602.00,100.00,385718.50,-1.00,-1.00
+32,Argentina,6,Buenos Aires,861,Vicente Lopez,6861,-1.00,-1.00,-1.00,-1.00,-1.00,-1.00
+32,Argentina,6,Buenos Aires,868,Villa Gesell,6868,-1.00,-1.00,-1.00,-1.00,-1.00,-1.00
+32,Argentina,6,Buenos Aires,875,Villarino,6875,884.00,884.00,100.00,801758.20,-1.00,-1.00
+32,Argentina,6,Buenos Aires,882,Zarate,6882,160.00,160.00,100.00,72483.10,-1.00,-1.00
+32,Argentina,10,Catamarca,7,Ambato,10007,211.00,140.00,66.35,108739.80,71.00,33.65
+32,Argentina,10,Catamarca,14,Ancasti,10014,541.00,91.00,16.82,29610.00,450.00,83.18
+32,Argentina,10,Catamarca,21,Andalgala,10021,650.00,365.00,56.15,62477.70,285.00,43.85
+32,Argentina,10,Catamarca,28,Antofagasta De La Sierra,10028,214.00,110.00,51.40,365.60,104.00,48.60
+32,Argentina,10,Catamarca,35,Belen,10035,1129.00,1019.00,90.26,278416.20,110.00,9.74
+32,Argentina,10,Catamarca,42,Capayan,10042,710.00,565.00,79.58,143138.50,145.00,20.42
+32,Argentina,10,Catamarca,49,Capital,10049,25.00,24.00,96.00,14077.60,1.00,4.00
+32,Argentina,10,Catamarca,56,El Alto,10056,594.00,349.00,58.75,101190.50,245.00,41.25
+32,Argentina,10,Catamarca,63,Fray Mamerto Esquiu,10063,68.00,66.00,97.06,690.80,2.00,2.94
+32,Argentina,10,Catamarca,70,La Paz,10070,641.00,323.00,50.39,577581.00,318.00,49.61
+32,Argentina,10,Catamarca,77,Paclin,10077,194.00,175.00,90.21,36962.40,19.00,9.79
+32,Argentina,10,Catamarca,84,Poman,10084,1130.00,977.00,86.46,89723.10,153.00,13.54
+32,Argentina,10,Catamarca,91,Santa Maria,10091,606.00,588.00,97.03,173138.60,18.00,2.97
+32,Argentina,10,Catamarca,98,Santa Rosa,10098,488.00,474.00,97.13,140073.90,14.00,2.87
+32,Argentina,10,Catamarca,105,Tinogasta,10105,1692.00,1575.00,93.09,19952.70,117.00,6.91
+32,Argentina,10,Catamarca,112,Valle Viejo,10112,119.00,118.00,99.16,24873.40,1.00,0.84
+32,Argentina,22,Chaco,7,Almirante Brown,22007,547.00,544.00,99.45,469851.80,3.00,0.55
+32,Argentina,22,Chaco,14,Bermejo,22014,356.00,291.00,81.74,157293.80,65.00,18.26
+32,Argentina,22,Chaco,21,Comandante Fernandez,22021,731.00,731.00,100.00,123364.40,-1.00,-1.00
+32,Argentina,22,Chaco,28,Chacabuco,22028,291.00,291.00,100.00,119164.80,-1.00,-1.00
+32,Argentina,22,Chaco,36,12 De Octubre,22036,550.00,549.00,99.82,228366.00,1.00,0.18
+32,Argentina,22,Chaco,39,2 De Abril,22039,263.00,263.00,100.00,119622.70,-1.00,-1.00
+32,Argentina,22,Chaco,43,Fray Justo Santa Maria De Oro,22043,581.00,581.00,100.00,145380.10,-1.00,-1.00
+32,Argentina,22,Chaco,49,General Belgrano,22049,201.00,200.00,99.50,81235.20,1.00,0.50
+32,Argentina,22,Chaco,56,General Donovan,22056,206.00,182.00,88.35,111992.20,24.00,11.65
+32,Argentina,22,Chaco,63,General Guemes,22063,2457.00,1898.00,77.25,763507.00,559.00,22.75
+32,Argentina,22,Chaco,70,Independencia,22070,501.00,501.00,100.00,106326.20,-1.00,-1.00
+32,Argentina,22,Chaco,77,Libertad,22077,259.00,188.00,72.59,97078.50,71.00,27.41
+32,Argentina,22,Chaco,84,Libertador General San Martin,22084,1817.00,1569.00,86.35,602902.60,248.00,13.65
+32,Argentina,22,Chaco,91,Maipu,22091,901.00,900.00,99.89,227310.50,1.00,0.11
+32,Argentina,22,Chaco,98,Mayor Luis J. Fontana,22098,745.00,715.00,95.97,341463.20,30.00,4.03
+32,Argentina,22,Chaco,105,9 De Julio,22105,379.00,379.00,100.00,129295.20,-1.00,-1.00
+32,Argentina,22,Chaco,112,O'Higgins,22112,786.00,786.00,100.00,155500.40,-1.00,-1.00
+32,Argentina,22,Chaco,119,Presidente De La Plaza,22119,396.00,396.00,100.00,198444.00,-1.00,-1.00
+32,Argentina,22,Chaco,126,1 De Mayo,22126,869.23,788.64,90.73,252126.94,51.00,5.87
+32,Argentina,22,Chaco,133,Quitilipi,22133,1000.00,976.00,97.60,136306.10,24.00,2.40
+32,Argentina,22,Chaco,140,San Fernando,22140,361.00,264.00,73.13,288706.90,97.00,26.87
+32,Argentina,22,Chaco,147,San Lorenzo,22147,711.00,687.00,96.62,195278.70,24.00,3.38
+32,Argentina,22,Chaco,154,Sargento Cabral,22154,624.00,542.00,86.86,143128.80,82.00,13.14
+32,Argentina,22,Chaco,161,Tapenaga,22161,869.00,789.00,90.79,252126.90,51.00,5.86
+32,Argentina,22,Chaco,168,25 De Mayo,22168,851.00,785.00,92.24,201386.30,66.00,7.76
+32,Argentina,26,Chubut,7,Biedma,26007,107.00,107.00,100.00,980654.50,-1.00,-1.00
+32,Argentina,26,Chubut,14,Cushamen,26014,731.00,729.00,99.73,1223537.00,2.00,0.27
+32,Argentina,26,Chubut,21,Escalante,26021,97.00,97.00,100.00,1205424.00,-1.00,-1.00
+32,Argentina,26,Chubut,28,Florentino Ameghino,26028,70.00,70.00,100.00,1007013.00,-1.00,-1.00
+32,Argentina,26,Chubut,35,Futaleufu,26035,287.00,278.00,96.86,382880.80,9.00,3.14
+32,Argentina,26,Chubut,42,Gaiman,26042,406.00,406.00,100.00,1015666.50,-1.00,-1.00
+32,Argentina,26,Chubut,49,Gastre,26049,225.00,223.00,99.11,1102898.00,2.00,0.89
+32,Argentina,26,Chubut,56,Languineo,26056,224.00,224.00,100.00,1039525.50,-1.00,-1.00
+32,Argentina,26,Chubut,63,Martires,26063,111.00,111.00,100.00,1432139.90,-1.00,-1.00
+32,Argentina,26,Chubut,70,Paso De Indios,26070,187.00,186.00,99.47,2126868.00,1.00,0.53
+32,Argentina,26,Chubut,77,Rawson,26077,112.00,112.00,100.00,354071.00,-1.00,-1.00
+32,Argentina,26,Chubut,84,Rio Senguer,26084,219.00,199.00,90.87,1885614.30,20.00,9.13
+32,Argentina,26,Chubut,91,Sarmiento,26091,182.00,182.00,100.00,1109658.70,-1.00,-1.00
+32,Argentina,26,Chubut,98,Tehuelches,26098,185.00,177.00,95.68,1053066.50,8.00,4.32
+32,Argentina,26,Chubut,105,Telsen,26105,214.00,211.00,98.60,1865376.50,3.00,1.40
+32,Argentina,14,Cordoba,7,Calamuchita,14007,763.00,741.00,37069.25,282838.40,22.00,2.88
+32,Argentina,14,Cordoba,14,Capital,14014,329.00,329.00,5184.41,17056.70,-1.00,-1.00
+32,Argentina,14,Cordoba,21,Colon,14021,466.00,466.00,39725.00,185118.50,-1.00,-1.00
+32,Argentina,14,Cordoba,28,Cruz Del Eje,14028,1456.00,1375.00,26584.43,387069.30,81.00,5.56
+32,Argentina,14,Cordoba,35,General Roca,14035,1209.00,1208.00,83980.16,1015320.10,1.00,0.08
+32,Argentina,14,Cordoba,42,General San Martin,14042,921.00,921.00,43897.38,404294.90,-1.00,-1.00
+32,Argentina,14,Cordoba,49,Ischilin,14049,795.00,753.00,50952.42,405071.70,42.00,5.28
+32,Argentina,14,Cordoba,56,Juarez Celman,14056,941.00,941.00,76534.63,720190.90,-1.00,-1.00
+32,Argentina,14,Cordoba,63,Marcos Juarez,14063,2056.00,2056.00,36890.87,758476.20,-1.00,-1.00
+32,Argentina,14,Cordoba,70,Minas,14070,633.00,632.00,47506.32,300715.00,1.00,0.16
+32,Argentina,14,Cordoba,77,Pocho,14077,621.00,621.00,30703.91,190671.30,-1.00,-1.00
+32,Argentina,14,Cordoba,84,Presidente Roque Saenz Pena,14084,962.00,959.00,66128.91,636160.10,3.00,0.31
+32,Argentina,14,Cordoba,91,Punilla,14091,253.00,253.00,61727.31,156170.10,-1.00,-1.00
+32,Argentina,14,Cordoba,98,Rio Cuarto,14098,2931.00,2930.00,46164.74,1353088.40,1.00,0.03
+32,Argentina,14,Cordoba,105,Rio Primero,14105,1136.00,1133.00,37302.32,423754.30,3.00,0.26
+32,Argentina,14,Cordoba,112,Rio Seco,14112,867.00,756.00,51388.86,445541.40,111.00,12.80
+32,Argentina,14,Cordoba,119,Rio Segundo,14119,1605.00,1604.00,31217.17,501035.50,1.00,0.06
+32,Argentina,14,Cordoba,126,San Alberto,14126,713.00,707.00,27764.57,197961.40,6.00,0.84
+32,Argentina,14,Cordoba,133,San Javier,14133,609.00,609.00,17870.61,108832.00,-1.00,-1.00
+32,Argentina,14,Cordoba,140,San Justo,14140,2441.00,2436.00,43394.32,1059255.30,5.00,0.20
+32,Argentina,14,Cordoba,147,Santa Maria,14147,700.00,672.00,33937.73,237564.10,28.00,4.00
+32,Argentina,14,Cordoba,154,Sobremonte,14154,321.00,298.00,73960.69,237413.80,23.00,7.17
+32,Argentina,14,Cordoba,161,Tercero Arriba,14161,1278.00,1277.00,34309.26,438472.30,1.00,0.08
+32,Argentina,14,Cordoba,168,Totoral,14168,496.00,495.00,51451.39,255198.90,1.00,0.20
+32,Argentina,14,Cordoba,175,Tulumba,14175,902.00,839.00,41383.77,373281.60,63.00,6.98
+32,Argentina,14,Cordoba,182,Union,14182,1680.00,1680.00,47660.96,800704.20,-1.00,-1.00
+32,Argentina,18,Corrientes,7,Bella Vista,18007,2.00,2.00,100.00,5316.00,-1.00,-1.00
+32,Argentina,18,Corrientes,14,Beron De Astrada,18014,43.00,39.00,90.70,50864.40,4.00,9.30
+32,Argentina,18,Corrientes,21,Capital,18021,120.00,109.00,90.83,61079.00,11.00,9.17
+32,Argentina,18,Corrientes,28,Concepcion,18028,7.00,6.00,85.71,11898.30,1.00,14.29
+32,Argentina,18,Corrientes,35,Curuzu Cuatia,18035,696.00,587.00,84.34,651450.30,109.00,15.66
+32,Argentina,18,Corrientes,42,Empedrado,18042,7.00,7.00,100.00,24837.10,-1.00,-1.00
+32,Argentina,18,Corrientes,49,Esquina,18049,411.00,378.00,91.97,102293.90,33.00,8.03
+32,Argentina,18,Corrientes,56,General Alvear,18056,136.00,136.00,100.00,122999.00,-1.00,-1.00
+32,Argentina,18,Corrientes,63,General Paz,18063,273.00,254.00,93.04,78799.20,19.00,6.96
+32,Argentina,18,Corrientes,70,Goya,18070,2.00,1.00,50.00,82.00,1.00,50.00
+32,Argentina,18,Corrientes,77,Itati,18077,115.00,110.00,95.65,45521.50,5.00,4.35
+32,Argentina,18,Corrientes,84,Ituzaingo,18084,131.00,128.00,97.71,139783.20,3.00,2.29
+32,Argentina,18,Corrientes,91,Lavalle,18091,6.00,6.00,100.00,9686.80,-1.00,-1.00
+32,Argentina,18,Corrientes,98,Mburucuya,18098,1.00,1.00,100.00,930.00,-1.00,-1.00
+32,Argentina,18,Corrientes,105,Mercedes,18105,639.00,610.00,95.46,731639.00,29.00,4.54
+32,Argentina,18,Corrientes,112,Monte Caseros,18112,873.00,869.00,99.54,250637.80,4.00,0.46
+32,Argentina,18,Corrientes,119,Paso De Los Libres,18119,105.00,105.00,100.00,216199.70,-1.00,-1.00
+32,Argentina,18,Corrientes,126,Saladas,18126,2.00,2.00,100.00,5994.00,-1.00,-1.00
+32,Argentina,18,Corrientes,133,San Cosme,18133,222.00,180.00,81.08,78993.90,42.00,18.92
+32,Argentina,18,Corrientes,140,San Luis Del Palmar,18140,488.00,457.00,93.65,192046.10,31.00,6.35
+32,Argentina,18,Corrientes,147,San Martin,18147,223.00,219.00,98.21,464486.20,4.00,1.79
+32,Argentina,18,Corrientes,154,San Miguel,18154,4.00,4.00,100.00,32748.00,-1.00,-1.00
+32,Argentina,18,Corrientes,161,San Roque,18161,6.00,6.00,100.00,31057.00,-1.00,-1.00
+32,Argentina,18,Corrientes,168,Santo Tome,18168,461.00,459.00,99.57,528963.30,2.00,0.43
+32,Argentina,18,Corrientes,175,Sauce,18175,311.00,273.00,87.78,238885.90,38.00,12.22
+32,Argentina,30,Entre Rios,8,Colon,30008,1267.00,1267.00,100.00,219678.80,-1.00,-1.00
+32,Argentina,30,Entre Rios,15,Concordia,30015,938.00,938.00,100.00,253308.30,-1.00,-1.00
+32,Argentina,30,Entre Rios,21,Diamante,30021,766.00,766.00,100.00,224684.20,-1.00,-1.00
+32,Argentina,30,Entre Rios,28,Federacion,30028,1640.00,1640.00,100.00,287714.30,-1.00,-1.00
+32,Argentina,30,Entre Rios,35,Federal,30035,893.00,893.00,100.00,426028.70,-1.00,-1.00
+32,Argentina,30,Entre Rios,42,Feliciano,30042,601.00,601.00,100.00,236889.10,-1.00,-1.00
+32,Argentina,30,Entre Rios,49,Gualeguay,30049,723.00,723.00,100.00,456193.30,-1.00,-1.00
+32,Argentina,30,Entre Rios,56,Gualeguaychu,30056,1539.00,1539.00,100.00,742002.80,-1.00,-1.00
+32,Argentina,30,Entre Rios,63,Islas Del Ibicuy,30063,298.00,298.00,100.00,254801.70,-1.00,-1.00
+32,Argentina,30,Entre Rios,70,La Paz,30070,1165.00,1165.00,100.00,552136.70,-1.00,-1.00
+32,Argentina,30,Entre Rios,77,Nogoya,30077,1415.00,1406.00,99.36,273368.30,9.00,0.64
+32,Argentina,30,Entre Rios,84,Parana,30084,1943.00,1942.00,99.95,460893.20,1.00,0.05
+32,Argentina,30,Entre Rios,88,San Salvador,30088,473.00,473.00,100.00,101403.10,-1.00,-1.00
+32,Argentina,30,Entre Rios,91,Tala,30091,876.00,865.00,98.74,178848.50,11.00,1.26
+32,Argentina,30,Entre Rios,98,Uruguay,30098,1694.00,1694.00,100.00,322136.20,-1.00,-1.00
+32,Argentina,30,Entre Rios,105,Victoria,30105,589.00,589.00,100.00,447968.50,-1.00,-1.00
+32,Argentina,30,Entre Rios,113,Villaguay,30113,1462.00,1462.00,100.00,512977.80,-1.00,-1.00
+32,Argentina,34,Formosa,7,Bermejo,34007,725.00,517.00,71.31,585675.80,208.00,28.69
+32,Argentina,34,Formosa,14,Formosa,34014,249.00,247.00,99.20,427654.60,2.00,0.80
+32,Argentina,34,Formosa,21,Laishi,34021,330.00,330.00,100.00,254092.10,-1.00,-1.00
+32,Argentina,34,Formosa,28,Matacos,34028,250.00,89.00,35.60,167998.50,161.00,64.40
+32,Argentina,34,Formosa,35,Patino,34035,2212.00,2163.00,97.78,1691500.10,49.00,2.22
+32,Argentina,34,Formosa,42,Pilagas,34042,1396.00,1383.00,99.07,292617.70,13.00,0.93
+32,Argentina,34,Formosa,49,Pilcomayo,34049,1827.00,1787.00,97.81,399872.10,40.00,2.19
+32,Argentina,34,Formosa,56,Pirane,34056,2011.00,1924.00,95.67,622375.60,87.00,4.33
+32,Argentina,34,Formosa,63,Ramon Lista,34063,172.00,119.00,69.19,127026.00,53.00,30.81
+32,Argentina,38,Jujuy,7,Cochinoca,38007,983.00,983.00,100.00,186032.50,630.00,64.09
+32,Argentina,38,Jujuy,14,El Carmen,38014,809.00,809.00,100.00,57904.10,26.00,3.21
+32,Argentina,38,Jujuy,21,Dr. Manuel Belgrano,38021,557.00,557.00,100.00,64191.00,356.00,63.91
+32,Argentina,38,Jujuy,28,Humahuaca,38028,959.00,959.00,100.00,10839.90,475.00,49.53
+32,Argentina,38,Jujuy,35,Ledesma,38035,870.00,870.00,100.00,194069.50,32.00,3.68
+32,Argentina,38,Jujuy,42,Palpala,38042,167.00,167.00,100.00,52104.90,75.00,44.91
+32,Argentina,38,Jujuy,49,Rinconada,38049,365.00,365.00,100.00,177725.50,245.00,67.12
+32,Argentina,38,Jujuy,56,San Antonio,38056,162.00,162.00,100.00,30409.40,33.00,20.37
+32,Argentina,38,Jujuy,63,San Pedro,38063,253.00,253.00,100.00,189867.10,13.00,5.14
+32,Argentina,38,Jujuy,70,Santa Barbara,38070,525.00,525.00,100.00,217962.50,30.00,5.71
+32,Argentina,38,Jujuy,77,Santa Catalina,38077,428.00,428.00,100.00,50953.20,366.00,85.51
+32,Argentina,38,Jujuy,84,Susques,38084,452.00,452.00,100.00,-1.00,452.00,100.00
+32,Argentina,38,Jujuy,94,Tilcara,38094,605.00,605.00,100.00,28966.90,54.00,8.93
+32,Argentina,38,Jujuy,98,Tumbaya,38098,465.00,465.00,100.00,16196.60,286.00,61.51
+32,Argentina,38,Jujuy,105,Valle Grande,38105,353.00,353.00,100.00,77502.60,112.00,31.73
+32,Argentina,38,Jujuy,112,Yavi,38112,780.00,780.00,100.00,16528.70,728.00,93.33
+32,Argentina,42,La Pampa,7,Atreuco,42007,396.00,389.00,98.23,330285.10,7.00,1.77
+32,Argentina,42,La Pampa,14,Caleu Caleu,42014,240.00,219.00,91.25,756232.90,21.00,8.75
+32,Argentina,42,La Pampa,21,Capital,42021,363.00,343.00,94.49,260062.70,20.00,5.51
+32,Argentina,42,La Pampa,28,Catrilo,42028,253.00,242.00,95.65,292389.20,11.00,4.35
+32,Argentina,42,La Pampa,35,Conhelo,42035,626.00,618.00,98.72,497483.60,8.00,1.28
+32,Argentina,42,La Pampa,42,Curaco,42042,224.00,157.00,70.09,933865.00,67.00,29.91
+32,Argentina,42,La Pampa,49,Chalileo,42049,175.00,174.00,99.43,569754.70,1.00,0.57
+32,Argentina,42,La Pampa,56,Chapaleufu,42056,388.00,365.00,94.07,255756.40,23.00,5.93
+32,Argentina,42,La Pampa,63,Chical Co,42063,261.00,237.00,90.80,778479.00,24.00,9.20
+32,Argentina,42,La Pampa,70,Guatrache,42070,727.00,721.00,99.17,365528.20,6.00,0.83
+32,Argentina,42,La Pampa,77,Hucal,42077,532.00,511.00,96.05,437458.20,21.00,3.95
+32,Argentina,42,La Pampa,84,Lihuel Calel,42084,236.00,187.00,79.24,972690.50,49.00,20.76
+32,Argentina,42,La Pampa,91,Limay Mahuida,42091,141.00,136.00,96.45,708194.00,5.00,3.55
+32,Argentina,42,La Pampa,98,Loventue,42098,287.00,285.00,99.30,863205.10,2.00,0.70
+32,Argentina,42,La Pampa,105,Maraco,42105,276.00,266.00,96.38,234812.20,10.00,3.62
+32,Argentina,42,La Pampa,112,Puelen,42112,218.00,210.00,96.33,902657.60,8.00,3.67
+32,Argentina,42,La Pampa,119,Quemu Quemu,42119,360.00,354.00,98.33,272440.90,6.00,1.67
+32,Argentina,42,La Pampa,126,Rancul,42126,525.00,509.00,96.95,535016.50,16.00,3.05
+32,Argentina,42,La Pampa,133,Realico,42133,529.00,525.00,99.24,242838.00,4.00,0.76
+32,Argentina,42,La Pampa,140,Toay,42140,298.00,293.00,98.32,431950.90,5.00,1.68
+32,Argentina,42,La Pampa,147,Trenel,42147,451.00,445.00,98.67,188563.40,6.00,1.33
+32,Argentina,42,La Pampa,154,Utracan,42154,434.00,429.00,98.85,1163323.80,5.00,1.15
+32,Argentina,46,La Rioja,7,Arauco,46007,811.00,783.00,96.55,25222.00,28.00,3.45
+32,Argentina,46,La Rioja,14,Capital,46014,469.00,213.00,45.42,601043.80,256.00,54.58
+32,Argentina,46,La Rioja,21,Castro Barros,46021,488.00,474.00,97.13,6077.90,14.00,2.87
+32,Argentina,46,La Rioja,28,Coronel Felipe Varela,46028,539.00,422.00,78.29,20286.50,117.00,21.71
+32,Argentina,46,La Rioja,35,Chamical,46035,238.00,176.00,73.95,400475.40,62.00,26.05
+32,Argentina,46,La Rioja,42,Chilecito,46042,422.00,415.00,98.34,52059.50,7.00,1.66
+32,Argentina,46,La Rioja,49,Famatina,46049,741.00,710.00,95.82,3476.40,31.00,4.18
+32,Argentina,46,La Rioja,56,General Angel V. Penaloza,46056,282.00,78.00,27.66,204742.80,204.00,72.34
+32,Argentina,46,La Rioja,63,General Belgrano,46063,382.00,248.00,64.92,174967.20,134.00,35.08
+32,Argentina,46,La Rioja,70,General Juan F. Quiroga,46070,379.00,213.00,56.20,219243.30,166.00,43.80
+32,Argentina,46,La Rioja,77,General Lamadrid,46077,107.00,79.00,73.83,13045.50,28.00,26.17
+32,Argentina,46,La Rioja,84,General Ocampo,46084,742.00,438.00,59.03,316387.50,304.00,40.97
+32,Argentina,46,La Rioja,91,General San Martin,46091,457.00,384.00,84.03,369367.00,73.00,15.97
+32,Argentina,46,La Rioja,98,Vinchina,46098,201.00,133.00,66.17,1561.20,68.00,33.83
+32,Argentina,46,La Rioja,105,Independencia,46105,176.00,56.00,31.82,158684.00,120.00,68.18
+32,Argentina,46,La Rioja,112,Rosario Vera Penaloza,46112,678.00,527.00,77.73,411401.00,151.00,22.27
+32,Argentina,46,La Rioja,119,San Blas De Los Sauces,46119,304.00,268.00,88.16,2476.30,36.00,11.84
+32,Argentina,46,La Rioja,126,Sanagasta,46126,160.00,150.00,93.75,514.90,10.00,6.25
+32,Argentina,50,Mendoza,7,Capital,50007,-1.00,-1.00,-1.00,-1.00,-1.00,-1.00
+32,Argentina,50,Mendoza,14,General Alvear,50014,2188.00,2187.00,99.95,909547.60,1.00,0.05
+32,Argentina,50,Mendoza,21,Godoy Cruz,50021,-1.00,-1.00,-1.00,-1.00,-1.00,-1.00
+32,Argentina,50,Mendoza,28,Guaymallen,50028,1046.00,1046.00,100.00,7708.50,0.00,0.00
+32,Argentina,50,Mendoza,35,Junin,50035,1417.00,1417.00,100.00,19697.40,0.00,0.00
+32,Argentina,50,Mendoza,42,La Paz,50042,267.00,267.00,100.00,622284.90,0.00,0.00
+32,Argentina,50,Mendoza,49,Las Heras,50049,375.00,311.00,82.93,127192.70,64.00,17.07
+32,Argentina,50,Mendoza,56,Lavalle,50056,1798.00,1317.00,73.25,187809.00,481.00,26.75
+32,Argentina,50,Mendoza,63,Lujan De Cuyo,50063,906.00,855.00,94.37,58642.70,51.00,5.63
+32,Argentina,50,Mendoza,70,Maipu,50070,2922.00,2922.00,100.00,44469.50,0.00,0.00
+32,Argentina,50,Mendoza,77,Malargue,50077,1230.00,351.00,28.54,1661048.90,879.00,71.46
+32,Argentina,50,Mendoza,84,Rivadavia,50084,1364.00,1359.00,99.63,138604.40,5.00,0.37
+32,Argentina,50,Mendoza,91,San Carlos,50091,1005.00,939.00,93.43,672208.00,66.00,6.57
+32,Argentina,50,Mendoza,98,San Martin,50098,2664.00,2664.00,100.00,81597.70,0.00,0.00
+32,Argentina,50,Mendoza,105,San Rafael,50105,5125.00,4900.00,95.61,1998441.10,225.00,4.39
+32,Argentina,50,Mendoza,112,Santa Rosa,50112,687.00,661.00,96.22,491563.80,26.00,3.78
+32,Argentina,50,Mendoza,119,Tunuyan,50119,694.00,673.00,96.97,307031.00,21.00,3.03
+32,Argentina,50,Mendoza,126,Tupungato,50126,622.00,615.00,98.87,167128.50,7.00,1.13
+32,Argentina,54,Misiones,7,Apostoles,54007,1032.00,1032.00,100.00,91216.50,-1.00,-1.00
+32,Argentina,54,Misiones,14,Cainguas,54014,2974.00,2974.00,100.00,89126.60,-1.00,-1.00
+32,Argentina,54,Misiones,21,Candelaria,54021,229.00,229.00,100.00,20481.90,-1.00,-1.00
+32,Argentina,54,Misiones,28,Capital,54028,140.00,140.00,100.00,34522.50,-1.00,-1.00
+32,Argentina,54,Misiones,35,Concepcion,54035,416.00,416.00,100.00,58541.20,-1.00,-1.00
+32,Argentina,54,Misiones,42,Eldorado,54042,1142.00,1094.00,95.80,112049.80,48.00,4.20
+32,Argentina,54,Misiones,49,General Manuel Belgrano,54049,2336.00,2186.00,93.58,111766.10,150.00,6.42
+32,Argentina,54,Misiones,56,Guarani,54056,5093.00,4828.00,94.80,165509.10,265.00,5.20
+32,Argentina,54,Misiones,63,Iguazu,54063,830.00,731.00,88.07,286832.80,99.00,11.93
+32,Argentina,54,Misiones,70,Leandro N. Alem,54070,1631.00,1631.00,100.00,62251.80,-1.00,-1.00
+32,Argentina,54,Misiones,77,Libertador General San Martin,54077,1157.00,1157.00,100.00,96706.80,-1.00,-1.00
+32,Argentina,54,Misiones,84,Montecarlo,54084,389.00,389.00,100.00,97130.20,-1.00,-1.00
+32,Argentina,54,Misiones,91,Obera,54091,3219.00,3219.00,100.00,137760.80,-1.00,-1.00
+32,Argentina,54,Misiones,98,San Ignacio,54098,1146.00,1146.00,100.00,77293.80,-1.00,-1.00
+32,Argentina,54,Misiones,105,San Javier,54105,883.00,883.00,100.00,35726.20,-1.00,-1.00
+32,Argentina,54,Misiones,112,San Pedro,54112,1704.00,1652.00,96.95,236505.00,52.00,3.05
+32,Argentina,54,Misiones,119,25 De  Mayo,54119,2051.00,2051.00,100.00,78780.70,-1.00,-1.00
+32,Argentina,58,Neuquen,7,Alumine,58007,370.00,80.00,21.62,148071.90,290.00,78.38
+32,Argentina,58,Neuquen,14,Anelo,58014,198.00,86.00,43.43,140892.00,112.00,56.57
+32,Argentina,58,Neuquen,21,Catan Lil,58021,277.00,62.00,22.38,273853.00,215.00,77.62
+32,Argentina,58,Neuquen,28,Collon Cura,58028,92.00,34.00,36.96,264369.40,58.00,63.04
+32,Argentina,58,Neuquen,35,Confluencia,58035,447.00,403.00,90.16,83375.00,44.00,9.84
+32,Argentina,58,Neuquen,42,Chos  Malal,58042,457.00,151.00,33.04,95358.30,306.00,66.96
+32,Argentina,58,Neuquen,49,Huiliches,58049,126.00,18.00,14.29,142478.30,108.00,85.71
+32,Argentina,58,Neuquen,56,Lacar,58056,84.00,44.00,52.38,359606.50,40.00,47.62
+32,Argentina,58,Neuquen,63,Loncopue,58063,539.00,23.00,4.27,147834.10,516.00,95.73
+32,Argentina,58,Neuquen,70,Los Lagos,58070,52.00,52.00,100.00,80254.70,-1.00,-1.00
+32,Argentina,58,Neuquen,77,Minas,58077,448.00,213.00,47.54,107912.70,235.00,52.46
+32,Argentina,58,Neuquen,84,Norquin,58084,287.00,97.00,33.80,185696.70,190.00,66.20
+32,Argentina,58,Neuquen,91,Pehuenches,58091,408.00,22.00,5.39,61802.30,386.00,94.61
+32,Argentina,58,Neuquen,98,Picun Leufu,58098,238.00,180.00,75.63,58344.40,58.00,24.37
+32,Argentina,58,Neuquen,105,Picunches,58105,184.00,55.00,29.89,194050.10,129.00,70.11
+32,Argentina,58,Neuquen,112,Zapala,58112,506.00,111.00,21.94,110383.40,395.00,78.06
+32,Argentina,62,Rio Negro,7,Adolfo Alsina,62007,545.00,545.00,100.00,555620.30,-1.00,-1.00
+32,Argentina,62,Rio Negro,14,Avellaneda,62014,1128.00,1128.00,100.00,1793239.20,-1.00,-1.00
+32,Argentina,62,Rio Negro,21,Bariloche,62021,201.00,201.00,100.00,106979.70,-1.00,-1.00
+32,Argentina,62,Rio Negro,28,Conesa,62028,329.00,329.00,100.00,603076.00,-1.00,-1.00
+32,Argentina,62,Rio Negro,35,El Cuy,62035,321.00,272.00,84.74,1156166.00,49.00,15.26
+32,Argentina,62,Rio Negro,42,General Roca,62042,1689.00,1670.00,98.88,590653.60,19.00,1.12
+32,Argentina,62,Rio Negro,49,9 De Julio,62049,235.00,183.00,77.87,873712.00,52.00,22.13
+32,Argentina,62,Rio Negro,56,Norquinco,62056,255.00,162.00,63.53,412493.00,93.00,36.47
+32,Argentina,62,Rio Negro,63,Pichi Mahuida,62063,705.00,705.00,100.00,1073640.60,-1.00,-1.00
+32,Argentina,62,Rio Negro,70,Pilcaniyeu,62070,245.00,196.00,80.00,383150.00,49.00,20.00
+32,Argentina,62,Rio Negro,77,San Antonio,62077,97.00,97.00,100.00,973369.00,-1.00,-1.00
+32,Argentina,62,Rio Negro,84,Valcheta,62084,209.00,209.00,100.00,944900.00,-1.00,-1.00
+32,Argentina,62,Rio Negro,91,25 De Mayo,62091,633.00,615.00,97.16,2390016.00,18.00,2.84
+32,Argentina,66,Salta,7,Anta,66007,737.00,552.00,74.90,1498900.10,185.00,25.10
+32,Argentina,66,Salta,14,Cachi,66014,485.00,390.00,80.41,39538.40,95.00,19.59
+32,Argentina,66,Salta,21,Cafayate,66021,91.00,79.00,86.81,85759.40,12.00,13.19
+32,Argentina,66,Salta,28,Capital,66028,150.00,124.00,82.67,101916.40,26.00,17.33
+32,Argentina,66,Salta,35,Cerrillos,66035,411.00,411.00,100.00,51787.50,-1.00,-1.00
+32,Argentina,66,Salta,42,Chicoana,66042,319.00,286.00,89.66,55828.40,33.00,10.34
+32,Argentina,66,Salta,49,General Guemes,66049,270.00,259.00,95.93,141464.60,11.00,4.07
+32,Argentina,66,Salta,56,General Jose De San Martin,66056,908.00,780.00,85.90,722058.20,128.00,14.10
+32,Argentina,66,Salta,63,Guachipas,66063,243.00,73.00,30.04,151958.90,170.00,69.96
+32,Argentina,66,Salta,70,Iruya,66070,993.00,562.00,56.60,35663.40,431.00,43.40
+32,Argentina,66,Salta,77,La Caldera,66077,174.00,88.00,50.57,75870.60,86.00,49.43
+32,Argentina,66,Salta,84,La Candelaria,66084,294.00,172.00,58.50,110972.60,122.00,41.50
+32,Argentina,66,Salta,91,La Poma,66091,183.00,60.00,32.79,102280.80,123.00,67.21
+32,Argentina,66,Salta,98,La Vina,66098,272.00,202.00,74.26,104377.30,70.00,25.74
+32,Argentina,66,Salta,105,Los Andes,66105,107.00,4.00,3.74,14.50,103.00,96.26
+32,Argentina,66,Salta,112,Metan,66112,296.00,243.00,82.09,329285.20,53.00,17.91
+32,Argentina,66,Salta,119,Molinos,66119,378.00,227.00,60.05,372594.40,151.00,39.95
+32,Argentina,66,Salta,126,Oran,66126,250.00,173.00,69.20,430308.10,77.00,30.80
+32,Argentina,66,Salta,133,Rivadavia,66133,816.00,286.00,35.05,369443.50,530.00,64.95
+32,Argentina,66,Salta,140,Rosario De La Frontera,66140,392.00,278.00,70.92,328243.10,114.00,29.08
+32,Argentina,66,Salta,147,Rosario De Lerma,66147,462.00,388.00,83.98,41964.80,74.00,16.02
+32,Argentina,66,Salta,154,San Carlos,66154,442.00,280.00,63.35,102661.90,162.00,36.65
+32,Argentina,66,Salta,161,Santa Victoria,66161,1644.00,891.00,54.20,1628.30,753.00,45.80
+32,Argentina,70,San Juan,7,Albardon,70007,162.00,154.00,95.06,12657.60,8.00,4.94
+32,Argentina,70,San Juan,14,Angaco,70014,-1.00,-1.00,-1.00,-1.00,-1.00,-1.00
+32,Argentina,70,San Juan,21,Calingasta,70021,723.00,624.00,86.31,125407.30,99.00,13.69
+32,Argentina,70,San Juan,28,Capital,70028,195.00,195.00,100.00,6218.80,-1.00,-1.00
+32,Argentina,70,San Juan,35,Caucete,70035,168.00,162.00,96.43,5421.20,6.00,3.57
+32,Argentina,70,San Juan,42,Chimbas,70042,1051.00,1018.00,96.86,67371.30,33.00,3.14
+32,Argentina,70,San Juan,49,Iglesia,70049,178.00,178.00,100.00,8009.40,-1.00,-1.00
+32,Argentina,70,San Juan,56,Jachal,70056,798.00,798.00,100.00,18496.30,-1.00,-1.00
+32,Argentina,70,San Juan,63,9 De Julio,70063,435.00,433.00,99.54,9502.70,2.00,0.46
+32,Argentina,70,San Juan,70,Pocito,70070,654.00,654.00,100.00,11614.90,-1.00,-1.00
+32,Argentina,70,San Juan,77,Rawson,70077,60.00,59.00,98.33,724.40,1.00,1.67
+32,Argentina,70,San Juan,84,Rivadavia,70084,379.00,379.00,100.00,13526.90,-1.00,-1.00
+32,Argentina,70,San Juan,91,San Martin,70091,488.00,488.00,100.00,3175.10,-1.00,-1.00
+32,Argentina,70,San Juan,98,Santa Lucia,70098,503.00,465.00,92.45,72721.90,38.00,7.55
+32,Argentina,70,San Juan,105,Sarmiento,70105,85.00,85.00,100.00,5614.20,-1.00,-1.00
+32,Argentina,70,San Juan,112,Ullum,70112,303.00,210.00,69.31,300385.40,93.00,30.69
+32,Argentina,70,San Juan,119,Valle Fertil,70119,549.00,479.00,87.25,105551.20,70.00,12.75
+32,Argentina,70,San Juan,126,25 De Mayo,70126,440.00,440.00,100.00,6707.90,-1.00,-1.00
+32,Argentina,70,San Juan,133,Zonda,70133,95.00,93.00,97.89,41683.70,2.00,2.11
+32,Argentina,74,San Luis,7,Ayacucho,74007,460.00,460.00,100.00,546367.70,-1.00,-1.00
+32,Argentina,74,San Luis,14,Belgrano,74014,491.00,491.00,100.00,461719.60,-1.00,-1.00
+32,Argentina,74,San Luis,21,Coronel Pringles,74021,597.00,597.00,100.00,361070.10,-1.00,-1.00
+32,Argentina,74,San Luis,28,Chacabuco,74028,421.00,421.00,100.00,187058.00,-1.00,-1.00
+32,Argentina,74,San Luis,35,General Pedernera,74035,537.00,537.00,100.00,974364.40,-1.00,-1.00
+32,Argentina,74,San Luis,42,Gobernador Dupuy,74042,274.00,273.00,99.64,1292667.00,1.00,0.36
+32,Argentina,74,San Luis,49,Junin,74049,425.00,420.00,98.82,144054.90,5.00,1.18
+32,Argentina,74,San Luis,56,Juan Martin De Pueyrredon,74056,422.00,421.00,99.76,1120997.10,1.00,0.24
+32,Argentina,74,San Luis,63,Libertador General San Martin,74063,647.00,647.00,100.00,191629.00,-1.00,-1.00
+32,Argentina,78,Santa Cruz,7,Corpen Aike,78007,93.00,93.00,100.00,2002814.00,-1.00,-1.00
+32,Argentina,78,Santa Cruz,14,Deseado,78014,308.00,308.00,100.00,4909494.60,-1.00,-1.00
+32,Argentina,78,Santa Cruz,21,Guer Aike,78021,129.00,129.00,100.00,3233093.90,-1.00,-1.00
+32,Argentina,78,Santa Cruz,28,Lago Argentino,78028,114.00,114.00,100.00,2237963.00,-1.00,-1.00
+32,Argentina,78,Santa Cruz,35,Lago Buenos Aires,78035,156.00,156.00,100.00,1876863.70,-1.00,-1.00
+32,Argentina,78,Santa Cruz,42,Magallanes,78042,74.00,74.00,100.00,1761666.00,-1.00,-1.00
+32,Argentina,78,Santa Cruz,49,Rio Chico,78049,187.00,187.00,100.00,1914404.60,-1.00,-1.00
+32,Argentina,82,Santa Fe,7,Belgrano,82007,1121.00,1121.00,100.00,237042.50,-1.00,-1.00
+32,Argentina,82,Santa Fe,14,Caseros,82014,2576.00,2576.00,100.00,360773.20,-1.00,-1.00
+32,Argentina,82,Santa Fe,21,Castellanos,82021,1954.00,1954.00,100.00,667152.40,-1.00,-1.00
+32,Argentina,82,Santa Fe,28,Constitucion,82028,1610.00,1610.00,100.00,254006.90,-1.00,-1.00
+32,Argentina,82,Santa Fe,35,Garay,82035,541.00,541.00,100.00,258770.10,-1.00,-1.00
+32,Argentina,82,Santa Fe,42,General Lopez,82042,2388.00,2388.00,100.00,889896.30,-1.00,-1.00
+32,Argentina,82,Santa Fe,49,General Obligado,82049,2106.00,2043.00,97.01,1029136.70,63.00,2.99
+32,Argentina,82,Santa Fe,56,Iriondo,82056,1418.00,1418.00,100.00,295968.60,-1.00,-1.00
+32,Argentina,82,Santa Fe,63,La Capital,82063,664.00,662.00,99.70,180923.70,2.00,0.30
+32,Argentina,82,Santa Fe,70,Las Colonias,82070,1794.00,1794.00,100.00,531277.00,-1.00,-1.00
+32,Argentina,82,Santa Fe,77,9 De Julio,82077,1010.00,1001.00,99.11,1225112.80,9.00,0.89
+32,Argentina,82,Santa Fe,84,Rosario,82084,1205.00,1205.00,100.00,141062.60,-1.00,-1.00
+32,Argentina,82,Santa Fe,91,San Cristobal,82091,1855.00,1855.00,100.00,1234875.00,-1.00,-1.00
+32,Argentina,82,Santa Fe,98,San Javier,82098,862.00,861.00,99.88,451715.10,1.00,0.12
+32,Argentina,82,Santa Fe,105,San Jeronimo,82105,1341.00,1341.00,100.00,397010.20,-1.00,-1.00
+32,Argentina,82,Santa Fe,112,San Justo,82112,861.00,861.00,100.00,396513.30,-1.00,-1.00
+32,Argentina,82,Santa Fe,119,San Lorenzo,82119,870.00,870.00,100.00,166915.10,-1.00,-1.00
+32,Argentina,82,Santa Fe,126,San Martin,82126,1477.00,1477.00,100.00,481328.20,-1.00,-1.00
+32,Argentina,82,Santa Fe,133,Vera,82133,1321.00,1130.00,85.54,1659615.60,191.00,14.46
+32,Argentina,86,Santiago Del Estero,7,Aguirre,86007,404.00,371.00,91.83,259472.50,33.00,8.17
+32,Argentina,86,Santiago Del Estero,14,Alberdi,86014,989.00,435.00,43.98,724281.90,554.00,56.02
+32,Argentina,86,Santiago Del Estero,21,Atamisqui,86021,484.00,23.00,4.75,36454.30,461.00,95.25
+32,Argentina,86,Santiago Del Estero,28,Avellaneda,86028,771.00,689.00,89.36,112396.50,82.00,10.64
+32,Argentina,86,Santiago Del Estero,35,Banda,86035,1390.00,1363.00,98.06,131631.80,27.00,1.94
+32,Argentina,86,Santiago Del Estero,42,Belgrano,86042,247.00,247.00,100.00,273707.20,-1.00,-1.00
+32,Argentina,86,Santiago Del Estero,49,Capital,86049,161.00,107.00,66.46,54780.50,54.00,33.54
+32,Argentina,86,Santiago Del Estero,56,Copo,86056,898.00,402.00,44.77,222537.50,496.00,55.23
+32,Argentina,86,Santiago Del Estero,63,Choya,86063,580.00,322.00,55.52,218106.60,258.00,44.48
+32,Argentina,86,Santiago Del Estero,70,Figueroa,86070,1324.00,707.00,53.40,76216.20,617.00,46.60
+32,Argentina,86,Santiago Del Estero,77,General Taboada,86077,626.00,549.00,87.70,371881.70,77.00,12.30
+32,Argentina,86,Santiago Del Estero,84,Guasayan,86084,391.00,177.00,45.27,91254.00,214.00,54.73
+32,Argentina,86,Santiago Del Estero,91,Jimenez,86091,385.00,343.00,89.09,281945.30,42.00,10.91
+32,Argentina,86,Santiago Del Estero,98,Juan F. Ibarra,86098,611.00,486.00,79.54,539899.20,125.00,20.46
+32,Argentina,86,Santiago Del Estero,105,Loreto,86105,379.00,207.00,54.62,67421.50,172.00,45.38
+32,Argentina,86,Santiago Del Estero,112,Mitre,86112,238.00,200.00,84.03,137369.60,38.00,15.97
+32,Argentina,86,Santiago Del Estero,119,Moreno,86119,500.00,418.00,83.60,759445.10,82.00,16.40
+32,Argentina,86,Santiago Del Estero,126,Ojo De Agua,86126,697.00,545.00,78.19,271741.50,152.00,21.81
+32,Argentina,86,Santiago Del Estero,133,Pellegrini,86133,887.00,827.00,93.24,336096.10,60.00,6.76
+32,Argentina,86,Santiago Del Estero,140,Quebrachos,86140,805.00,430.00,53.42,248217.90,375.00,46.58
+32,Argentina,86,Santiago Del Estero,147,Rio Hondo,86147,289.00,252.00,87.20,38604.90,37.00,12.80
+32,Argentina,86,Santiago Del Estero,154,Rivadavia,86154,272.00,272.00,100.00,145609.60,-1.00,-1.00
+32,Argentina,86,Santiago Del Estero,161,Robles,86161,961.00,924.00,96.15,71994.20,37.00,3.85
+32,Argentina,86,Santiago Del Estero,168,Salavina,86168,847.00,181.00,21.37,81437.20,666.00,78.63
+32,Argentina,86,Santiago Del Estero,175,San Martin,86175,391.00,297.00,75.96,48564.50,94.00,24.04
+32,Argentina,86,Santiago Del Estero,182,Sarmiento,86182,58.00,58.00,100.00,27312.50,-1.00,-1.00
+32,Argentina,86,Santiago Del Estero,189,Silipica,86189,314.00,201.00,64.01,16053.70,113.00,35.99
+32,Argentina,94,Tierra Del Fuego,7,Rio Grande,94007,62.00,62.00,100.00,1033697.10,-1.00,-1.00
+32,Argentina,94,Tierra Del Fuego,14,Ushuaia,94014,22.00,22.00,100.00,128181.30,-1.00,-1.00
+32,Argentina,90,Tucuman,7,Burruyacu,90007,410.00,410.00,100.00,225721.00,-1.00,-1.00
+32,Argentina,90,Tucuman,14,Cruz Alta,90014,752.00,752.00,100.00,139207.50,-1.00,-1.00
+32,Argentina,90,Tucuman,21,Chicligasta,90021,481.00,481.00,100.00,44223.40,-1.00,-1.00
+32,Argentina,90,Tucuman,28,Famailla,90028,195.00,195.00,100.00,25770.70,-1.00,-1.00
+32,Argentina,90,Tucuman,35,Graneros,90035,217.00,217.00,100.00,36776.30,-1.00,-1.00
+32,Argentina,90,Tucuman,42,Juan B. Alberdi,90042,328.00,328.00,100.00,13950.50,-1.00,-1.00
+32,Argentina,90,Tucuman,49,La Cocha,90049,535.00,535.00,100.00,59790.70,-1.00,-1.00
+32,Argentina,90,Tucuman,56,Leales,90056,1462.00,1462.00,100.00,83958.10,-1.00,-1.00
+32,Argentina,90,Tucuman,63,Lules,90063,159.00,159.00,100.00,7086.70,-1.00,-1.00
+32,Argentina,90,Tucuman,70,Monteros,90070,742.00,742.00,100.00,30542.80,-1.00,-1.00
+32,Argentina,90,Tucuman,77,Rio Chico,90077,419.00,419.00,100.00,20167.50,-1.00,-1.00
+32,Argentina,90,Tucuman,84,Capital,90084,8.00,8.00,100.00,36.00,-1.00,-1.00
+32,Argentina,90,Tucuman,91,Simoca,90091,1424.00,1424.00,100.00,43804.40,-1.00,-1.00
+32,Argentina,90,Tucuman,98,Tafi Del Valle,90098,120.00,108.00,90.00,49909.50,12.00,10.00
+32,Argentina,90,Tucuman,105,Tafi Viejo,90105,170.00,115.00,67.65,31014.80,55.00,32.35
+32,Argentina,90,Tucuman,112,Trancas,90112,232.00,232.00,100.00,138825.50,-1.00,-1.00
+32,Argentina,90,Tucuman,119,Yerba Buena,90119,15.00,15.00,100.00,11595.70,-1.00,-1.00

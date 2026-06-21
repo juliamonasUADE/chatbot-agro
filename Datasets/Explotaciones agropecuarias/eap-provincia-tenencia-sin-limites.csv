@@ -1,0 +1,162 @@
+año,provincia,provincia_id,tenencia_tierra,EAP_sin_limites
+2002,Buenos Aires,06,Arrendamiento,0
+2002,Buenos Aires,06,Aparcería,0
+2002,Buenos Aires,06,Ocupación con permiso,6
+2002,Buenos Aires,06,Ocupación de hecho,3
+2002,Buenos Aires,06,Derechoso,0
+2002,Buenos Aires,06,Integrante,0
+2002,Buenos Aires,06,Sin discriminar,0
+2002,Catamarca,10,Arrendamiento,49
+2002,Catamarca,10,Aparcería,5
+2002,Catamarca,10,Ocupación con permiso,275
+2002,Catamarca,10,Ocupación de hecho,678
+2002,Catamarca,10,Derechoso,1367
+2002,Catamarca,10,Integrante,0
+2002,Catamarca,10,Sin discriminar,70
+2002,Córdoba,14,Arrendamiento,2
+2002,Córdoba,14,Aparcería,1
+2002,Córdoba,14,Ocupación con permiso,287
+2002,Córdoba,14,Ocupación de hecho,247
+2002,Córdoba,14,Derechoso,38
+2002,Córdoba,14,Integrante,0
+2002,Córdoba,14,Sin discriminar,31
+2002,Corrientes,18,Arrendamiento,6
+2002,Corrientes,18,Aparcería,7
+2002,Corrientes,18,Ocupación con permiso,270
+2002,Corrientes,18,Ocupación de hecho,262
+2002,Corrientes,18,Derechoso,0
+2002,Corrientes,18,Integrante,0
+2002,Corrientes,18,Sin discriminar,26
+2002,Chaco,22,Arrendamiento,38
+2002,Chaco,22,Aparcería,46
+2002,Chaco,22,Ocupación con permiso,638
+2002,Chaco,22,Ocupación de hecho,404
+2002,Chaco,22,Derechoso,0
+2002,Chaco,22,Integrante,71
+2002,Chaco,22,Sin discriminar,7
+2002,Chubut,26,Arrendamiento,1
+2002,Chubut,26,Aparcería,0
+2002,Chubut,26,Ocupación con permiso,122
+2002,Chubut,26,Ocupación de hecho,13
+2002,Chubut,26,Derechoso,1
+2002,Chubut,26,Integrante,0
+2002,Chubut,26,Sin discriminar,19
+2002,Entre Ríos,30,Arrendamiento,0
+2002,Entre Ríos,30,Aparcería,0
+2002,Entre Ríos,30,Ocupación con permiso,0
+2002,Entre Ríos,30,Ocupación de hecho,0
+2002,Entre Ríos,30,Derechoso,0
+2002,Entre Ríos,30,Integrante,0
+2002,Entre Ríos,30,Sin discriminar,0
+2002,Formosa,34,Arrendamiento,21
+2002,Formosa,34,Aparcería,20
+2002,Formosa,34,Ocupación con permiso,515
+2002,Formosa,34,Ocupación de hecho,291
+2002,Formosa,34,Derechoso,0
+2002,Formosa,34,Integrante,47
+2002,Formosa,34,Sin discriminar,74
+2002,Jujuy,38,Arrendamiento,341
+2002,Jujuy,38,Aparcería,7
+2002,Jujuy,38,Ocupación con permiso,1626
+2002,Jujuy,38,Ocupación de hecho,2566
+2002,Jujuy,38,Derechoso,16
+2002,Jujuy,38,Integrante,352
+2002,Jujuy,38,Sin discriminar,14
+2002,La Pampa,42,Arrendamiento,0
+2002,La Pampa,42,Aparcería,0
+2002,La Pampa,42,Ocupación con permiso,1
+2002,La Pampa,42,Ocupación de hecho,0
+2002,La Pampa,42,Derechoso,0
+2002,La Pampa,42,Integrante,0
+2002,La Pampa,42,Sin discriminar,0
+2002,La Rioja,46,Arrendamiento,30
+2002,La Rioja,46,Aparcería,7
+2002,La Rioja,46,Ocupación con permiso,793
+2002,La Rioja,46,Ocupación de hecho,674
+2002,La Rioja,46,Derechoso,739
+2002,La Rioja,46,Integrante,0
+2002,La Rioja,46,Sin discriminar,21
+2002,Mendoza,50,Arrendamiento,279
+2002,Mendoza,50,Aparcería,195
+2002,Mendoza,50,Ocupación con permiso,822
+2002,Mendoza,50,Ocupación de hecho,855
+2002,Mendoza,50,Derechoso,141
+2002,Mendoza,50,Integrante,26
+2002,Mendoza,50,Sin discriminar,9
+2002,Misiones,54,Arrendamiento,2
+2002,Misiones,54,Aparcería,0
+2002,Misiones,54,Ocupación con permiso,53
+2002,Misiones,54,Ocupación de hecho,816
+2002,Misiones,54,Derechoso,0
+2002,Misiones,54,Integrante,0
+2002,Misiones,54,Sin discriminar,12
+2002,Neuquén,58,Arrendamiento,79
+2002,Neuquén,58,Aparcería,6
+2002,Neuquén,58,Ocupación con permiso,2405
+2002,Neuquén,58,Ocupación de hecho,292
+2002,Neuquén,58,Derechoso,1
+2002,Neuquén,58,Integrante,569
+2002,Neuquén,58,Sin discriminar,18
+2002,Río Negro,62,Arrendamiento,1
+2002,Río Negro,62,Aparcería,4
+2002,Río Negro,62,Ocupación con permiso,311
+2002,Río Negro,62,Ocupación de hecho,141
+2002,Río Negro,62,Derechoso,0
+2002,Río Negro,62,Integrante,0
+2002,Río Negro,62,Sin discriminar,15
+2002,Salta,66,Arrendamiento,558
+2002,Salta,66,Aparcería,308
+2002,Salta,66,Ocupación con permiso,1556
+2002,Salta,66,Ocupación de hecho,2106
+2002,Salta,66,Derechoso,122
+2002,Salta,66,Integrante,67
+2002,Salta,66,Sin discriminar,5
+2002,San Juan,70,Arrendamiento,7
+2002,San Juan,70,Aparcería,18
+2002,San Juan,70,Ocupación con permiso,158
+2002,San Juan,70,Ocupación de hecho,259
+2002,San Juan,70,Derechoso,39
+2002,San Juan,70,Integrante,0
+2002,San Juan,70,Sin discriminar,101
+2002,San Luis,74,Arrendamiento,1
+2002,San Luis,74,Aparcería,0
+2002,San Luis,74,Ocupación con permiso,22
+2002,San Luis,74,Ocupación de hecho,42
+2002,San Luis,74,Derechoso,11
+2002,San Luis,74,Integrante,0
+2002,San Luis,74,Sin discriminar,5
+2002,Santa Cruz,78,Arrendamiento,0
+2002,Santa Cruz,78,Aparcería,0
+2002,Santa Cruz,78,Ocupación con permiso,0
+2002,Santa Cruz,78,Ocupación de hecho,0
+2002,Santa Cruz,78,Derechoso,0
+2002,Santa Cruz,78,Integrante,3
+2002,Santa Cruz,78,Sin discriminar,0
+2002,Santa Fe,82,Arrendamiento,24
+2002,Santa Fe,82,Aparcería,0
+2002,Santa Fe,82,Ocupación con permiso,30
+2002,Santa Fe,82,Ocupación de hecho,12
+2002,Santa Fe,82,Derechoso,0
+2002,Santa Fe,82,Integrante,0
+2002,Santa Fe,82,Sin discriminar,3
+2002,Santiago del Estero,86,Arrendamiento,36
+2002,Santiago del Estero,86,Aparcería,1
+2002,Santiago del Estero,86,Ocupación con permiso,3308
+2002,Santiago del Estero,86,Ocupación de hecho,6064
+2002,Santiago del Estero,86,Derechoso,424
+2002,Santiago del Estero,86,Integrante,0
+2002,Santiago del Estero,86,Sin discriminar,286
+2002,Tierra del Fuego,94,Arrendamiento,0
+2002,Tierra del Fuego,94,Aparcería,0
+2002,Tierra del Fuego,94,Ocupación con permiso,0
+2002,Tierra del Fuego,94,Ocupación de hecho,0
+2002,Tierra del Fuego,94,Derechoso,0
+2002,Tierra del Fuego,94,Integrante,0
+2002,Tierra del Fuego,94,Sin discriminar,0
+2002,Tucumán,90,Arrendamiento,59
+2002,Tucumán,90,Aparcería,3
+2002,Tucumán,90,Ocupación con permiso,68
+2002,Tucumán,90,Ocupación de hecho,149
+2002,Tucumán,90,Derechoso,3
+2002,Tucumán,90,Integrante,37
+2002,Tucumán,90,Sin discriminar,16

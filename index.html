@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ChatBot Agro — General Madariaga</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="app">
+
+    <header class="header">
+        <img src="logo-uade.png" class="logo" alt="UADE">
+        <div class="header-text">
+            <h1>ChatBot Agro</h1>
+            <p>Partido de General Madariaga</p>
+        </div>
+
+    </header>
+
+    <div class="chips-wrap">
+        <span class="chip" onclick="preguntar('¿Cuáles son los principales cultivos del partido?')">🌽 Cultivos</span>
+        <span class="chip" onclick="preguntar('¿Cuántas cabezas de ganado hay?')">🐄 Ganadería</span>
+        <span class="chip" onclick="preguntar('¿Cómo es la producción apícola?')">🍯 Apicultura</span>
+        <span class="chip" onclick="preguntar('¿Cuántas empresas hay en el partido?')">🏭 Empresas</span>
+        <span class="chip" onclick="preguntar('¿Cuál es el clima de la región?')">🌤️ Clima</span>
+        <span class="chip" onclick="preguntar('¿Qué cultivos de invierno se siembran?')">🌾 Invierno</span>
+    </div>
+
+    <div id="chat">
+        <div class="burbuja bot">
+            Hola, soy el asistente agropecuario del Partido de General Madariaga.<br><br>
+            Podés preguntarme sobre <strong>producción agrícola, ganadería, empresas, clima y más</strong>, basado en el Mapa Productivo 2022.
+        </div>
+    </div>
+
+    <div class="input-area">
+        <input id="inputMsg" placeholder="Escribí tu consulta..." autocomplete="off" />
+        <button id="btnEnviar" onclick="enviar()">
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                <line x1="22" y1="2" x2="11" y2="13"></line>
+                <polygon points="22 2 15 22 11 13 2 9 22 2"></polygon>
+            </svg>
+        </button>
+    </div>
+
+</div>
+
+<script src="app.js"></script>
+</body>
+</html>
