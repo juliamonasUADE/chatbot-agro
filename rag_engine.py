@@ -63,30 +63,37 @@ def extraer_respuesta(pregunta, contexto):
     return ". ".join(top) + "." if top else contexto[:500]
 
 
-def es_pregunta_valida(pregunta):
-    """Detecta si la pregunta tiene contenido real o es ruido."""
-    # Mínimo 3 caracteres
-    if len(pregunta.strip()) < 3:
-        return False
-    
-    # Si tiene más del 60% de caracteres no alfabéticos, es ruido
-    letras = sum(1 for c in pregunta if c.isalpha())
-    if len(pregunta) > 0 and letras / len(pregunta) < 0.4:
-        return False
-    
-    # Si todas las letras son mayúsculas y hay más de 5, probablemente es ruido
-    if pregunta.isupper() and len(pregunta) > 5:
-        return False
-    
-    return True
+def tiene_palabras_reales(pregunta):
+    palabras_comunes = {
+        "que", "qué", "como", "cómo", "cuanto", "cuánto", "cuántas", "cuantas",
+        "donde", "dónde", "hay", "son", "tiene", "es", "de", "en", "el", "la",
+        "los", "las", "un", "una", "se", "con", "por", "para", "del", "al",
+        "me", "te", "le", "nos", "si", "no", "ya", "más", "mas", "muy",
+        "pero", "porque", "porqué", "cuando", "cuándo", "quien", "quién",
+        "cual", "cuál", "cuales", "cuáles", "sobre", "entre", "hasta", "desde",
+        "this", "hay", "ser", "estar", "tener", "hacer", "poder", "saber",
+        "quiero", "quiero", "puedo", "puede", "tienen", "tengo", "tenés",
+        "decime", "contame", "explicame", "dime", "dame", "cuéntame",
+        "partido", "general", "campo", "zona", "region", "región", "área",
+        "año", "años", "mes", "meses", "dia", "día", "hoy", "ayer",
+        "mucho", "poco", "todo", "todos", "nada", "algo", "algun", "algún",
+        "primer", "primero", "segundo", "tercer", "último", "ultimo",
+        "grande", "pequeño", "mayor", "menor", "mejor", "peor",
+        "nuevo", "viejo", "antiguo", "reciente", "actual",
+        "precio", "costo", "valor", "cantidad", "numero", "número",
+        "tipo", "tipos", "clase", "forma", "manera", "modo",
+        "información", "informacion", "dato", "datos", "detalle", "detalles"
+    }
+    palabras = set(pregunta.lower().split())
+    return bool(palabras & palabras_comunes)
 
 def responder(pregunta):
-    if not es_pregunta_valida(pregunta):
+    if not tiene_palabras_reales(pregunta):
         return {
             "respuesta": "No entendí tu consulta. Podés preguntarme sobre cultivos, ganadería, empresas, clima u oportunidades de inversión en General Madariaga.",
             "fuentes": [],
             "modo": "invalido"
-        }
+    }    
     # Saludos
     saludos = ["hola", "buenos días", "buenas tardes", "buenas noches", "buenas", "hey", "hi"]
     if pregunta.lower().strip().rstrip("!").rstrip("?") in saludos:
