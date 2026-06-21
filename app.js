@@ -1,4 +1,4 @@
-const API_URL = "http://127.0.0.1:8000";
+const API_URL = "https://chatbot-agro-production-c45e.up.railway.app";
 
 function preguntar(texto) {
     document.getElementById("inputMsg").value = texto;
