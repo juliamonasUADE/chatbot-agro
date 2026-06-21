@@ -63,7 +63,30 @@ def extraer_respuesta(pregunta, contexto):
     return ". ".join(top) + "." if top else contexto[:500]
 
 
+def es_pregunta_valida(pregunta):
+    """Detecta si la pregunta tiene contenido real o es ruido."""
+    # Mínimo 3 caracteres
+    if len(pregunta.strip()) < 3:
+        return False
+    
+    # Si tiene más del 60% de caracteres no alfabéticos, es ruido
+    letras = sum(1 for c in pregunta if c.isalpha())
+    if len(pregunta) > 0 and letras / len(pregunta) < 0.4:
+        return False
+    
+    # Si todas las letras son mayúsculas y hay más de 5, probablemente es ruido
+    if pregunta.isupper() and len(pregunta) > 5:
+        return False
+    
+    return True
+
 def responder(pregunta):
+    if not es_pregunta_valida(pregunta):
+        return {
+            "respuesta": "No entendí tu consulta. Podés preguntarme sobre cultivos, ganadería, empresas, clima u oportunidades de inversión en General Madariaga.",
+            "fuentes": [],
+            "modo": "invalido"
+        }
     # Saludos
     saludos = ["hola", "buenos días", "buenas tardes", "buenas noches", "buenas", "hey", "hi"]
     if pregunta.lower().strip().rstrip("!").rstrip("?") in saludos:
