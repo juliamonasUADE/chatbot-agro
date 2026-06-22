@@ -25,6 +25,10 @@ def buscar_contexto(pregunta, top_k=TOP_K):
         include=["documents", "metadatas", "distances"]
     )
 
+    print("=== DEBUG ===")
+    for chunk, meta, dist in zip(resultados["documents"][0], resultados["metadatas"][0], resultados["distances"][0]):
+        print(f"dist={dist:.4f} | tipo={meta.get('tipo')} | texto={chunk[:80]}")
+    print("=============")
     chunks     = resultados["documents"][0]
     metadatas  = resultados["metadatas"][0]
     distancias = resultados["distances"][0]
