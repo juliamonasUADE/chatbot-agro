@@ -493,21 +493,105 @@
     "instruction": "¿Cómo evolucionó la siembra de soja en los últimos años?",
     "input": "",
     "output": "La superficie sembrada de soja (primera y segunda) en el Partido de General Madariaga mostró una tendencia decreciente: de 22.800 hectáreas totales en 2016/2017 bajó a 10.000 hectáreas en 2020/2021. La soja de primera pasó de 15.000 a 4.500 hectáreas y la de segunda de 7.800 a 5.500 hectáreas en ese período."
+  },
+  {
+    "instruction": "hectareas de maiz",
+    "input": "",
+    "output": "En la campaña de verano 2020/2021 se sembraron 17.800 hectáreas de maíz en el Partido de General Madariaga, con un rinde estimado promedio de 8.500 kg por hectárea."
+  },
+  {
+    "instruction": "cuantas hectareas de maiz se sembraron",
+    "input": "",
+    "output": "En la campaña de verano 2020/2021 se sembraron 17.800 hectáreas de maíz en el Partido de General Madariaga, con un rinde estimado promedio de 8.500 kg por hectárea."
+  },
+  {
+    "instruction": "maiz ultima campaña",
+    "input": "",
+    "output": "En la campaña de verano 2020/2021 se sembraron 17.800 hectáreas de maíz en el Partido de General Madariaga, con un rinde estimado promedio de 8.500 kg por hectárea."
+  },
+  {
+    "instruction": "¿Cuántas cabezas de ganado hay en el partido?",
+    "input": "",
+    "output": "En el primer semestre de 2022 se identificaron cerca de 260.000 cabezas de ganado en el Partido de General Madariaga. Se distribuyen en vacas (42%), terneros y terneras (16% respectivamente), vaquillonas (12%) y novillitos (8%)."
+  },
+  {
+    "instruction": "ganado en madariaga",
+    "input": "",
+    "output": "En el primer semestre de 2022 se identificaron cerca de 260.000 cabezas de ganado en el Partido de General Madariaga. Se distribuyen en vacas (42%), terneros y terneras (16% respectivamente), vaquillonas (12%) y novillitos (8%)."
+  },
+  {
+    "instruction": "cuanto ganado tiene el partido",
+    "input": "",
+    "output": "En el primer semestre de 2022 se identificaron cerca de 260.000 cabezas de ganado en el Partido de General Madariaga. Se distribuyen en vacas (42%), terneros y terneras (16% respectivamente), vaquillonas (12%) y novillitos (8%)."
+  },
+  {
+    "instruction": "maiz en el partido",
+    "input": "",
+    "output": "En la campaña de verano 2020/2021 se sembraron 17.800 hectáreas de maíz en el Partido de General Madariaga, con un rinde estimado promedio de 8.500 kg por hectárea."
+  },
+  {
+    "instruction": "cuanto maiz se siembra",
+    "input": "",
+    "output": "En la campaña de verano 2020/2021 se sembraron 17.800 hectáreas de maíz en el Partido de General Madariaga, con un rinde estimado promedio de 8.500 kg por hectárea."
+  },
+  {
+    "instruction": "¿Cómo es la producción apícola en el partido?",
+    "input": "",
+    "output": "La actividad apícola es la principal producción intensiva del partido. Existen alrededor de 20.000 colmenas distribuidas entre aproximadamente 60 productores, con una producción promedio de 20 kg por colmena. Esto implica una producción total de alrededor de 500.000 kilogramos de miel por campaña. Las mieles de la zona son claras, de sabor suave y calidad sobresaliente. También existe una miel monoflora de Coronillo, de color oscuro y sabor intenso."
+  },
+  {
+    "instruction": "apicultura en el partido",
+    "input": "",
+    "output": "La actividad apícola es la principal producción intensiva del partido. Existen alrededor de 20.000 colmenas distribuidas entre aproximadamente 60 productores, con una producción promedio de 20 kg por colmena. Esto implica una producción total de alrededor de 500.000 kilogramos de miel por campaña. Las mieles de la zona son claras, de sabor suave y calidad sobresaliente."
+  },
+  {
+    "instruction": "produccion de miel en el partido",
+    "input": "",
+    "output": "La actividad apícola es la principal producción intensiva del partido. Existen alrededor de 20.000 colmenas distribuidas entre aproximadamente 60 productores, con una producción promedio de 20 kg por colmena. Esto implica una producción total de alrededor de 500.000 kilogramos de miel por campaña."
+  },
+  {
+    "instruction": "¿Qué oportunidades de inversión hay en el partido?",
+    "input": "",
+    "output": "Las principales oportunidades de inversión en el Partido de General Madariaga incluyen: el sector agropecuario (ganadería, agricultura, apicultura y producción de kiwi para exportación), el sector industrial con mayores expectativas de crecimiento, y el sector de tecnologías de la información y comunicación (TIC) que acompañe la transformación digital de las empresas locales. El 53% de las empresas invirtió en el último año, principalmente con fondos propios, lo que indica apertura a financiamiento externo."
+  },
+  {
+    "instruction": "donde invertir en madariaga",
+    "input": "",
+    "output": "Las principales oportunidades de inversión en el Partido de General Madariaga incluyen: el sector agropecuario (ganadería, agricultura, apicultura y producción de kiwi para exportación), el sector industrial con mayores expectativas de crecimiento, y el sector de tecnologías de la información y comunicación (TIC) que acompañe la transformación digital de las empresas locales."
+  },
+  {
+    "instruction": "inversiones en el partido",
+    "input": "",
+    "output": "Las principales oportunidades de inversión en el Partido de General Madariaga incluyen: el sector agropecuario (ganadería, agricultura, apicultura y producción de kiwi para exportación), el sector industrial con mayores expectativas de crecimiento, y el sector de tecnologías de la información y comunicación (TIC) que acompañe la transformación digital de las empresas locales."
+  },
+  {
+    "instruction": "¿Cuántas empresas hay en el partido?",
+    "input": "",
+    "output": "En el Partido de General Madariaga se identificaron un total de 2.283 establecimientos vinculados a la actividad productiva. De estos, 1.331 son agropecuarios (61%), 491 comerciales (23%), 203 de servicios (9%), 102 de producciones intensivas (5%) y 54 industriales (2%)."
+  },
+  {
+    "instruction": "cuantos establecimientos hay en madariaga",
+    "input": "",
+    "output": "En el Partido de General Madariaga se identificaron un total de 2.283 establecimientos vinculados a la actividad productiva. De estos, 1.331 son agropecuarios (61%), 491 comerciales (23%), 203 de servicios (9%), 102 de producciones intensivas (5%) y 54 industriales (2%)."
+  },
+  {
+    "instruction": "empresas en general madariaga",
+    "input": "",
+    "output": "En el Partido de General Madariaga se identificaron un total de 2.283 establecimientos vinculados a la actividad productiva. De estos, 1.331 son agropecuarios (61%), 491 comerciales (23%), 203 de servicios (9%), 102 de producciones intensivas (5%) y 54 industriales (2%)."
+  },
+  {
+    "instruction": "¿Qué cultivos de invierno se siembran en el partido?",
+    "input": "",
+    "output": "El principal cultivo de invierno del Partido de General Madariaga es el trigo. En la campaña 2021/2022 se sembraron 6.000 hectáreas con un rinde estimado promedio de 5.300 kg por hectárea, el valor más alto de las últimas cinco campañas. La siembra se realiza entre mayo y julio y la cosecha entre noviembre y diciembre."
+  },
+  {
+    "instruction": "cultivos de invierno",
+    "input": "",
+    "output": "El principal cultivo de invierno del Partido de General Madariaga es el trigo. En la campaña 2021/2022 se sembraron 6.000 hectáreas con un rinde estimado promedio de 5.300 kg por hectárea, el valor más alto de las últimas cinco campañas. La siembra se realiza entre mayo y julio y la cosecha entre noviembre y diciembre."
+  },
+  {
+    "instruction": "que se siembra en invierno en madariaga",
+    "input": "",
+    "output": "El principal cultivo de invierno del Partido de General Madariaga es el trigo. En la campaña 2021/2022 se sembraron 6.000 hectáreas con un rinde estimado promedio de 5.300 kg por hectárea, el valor más alto de las últimas cinco campañas. La siembra se realiza entre mayo y julio y la cosecha entre noviembre y diciembre."
   }
-  ,{
-  "instruction": "hectareas de maiz",
-  "input": "",
-  "output": "En la campaña de verano 2020/2021 se sembraron 17.800 hectáreas de maíz en el Partido de General Madariaga, con un rinde estimado promedio de 8.500 kg por hectárea."
-},
-{
-  "instruction": "cuantas hectareas de maiz se sembraron",
-  "input": "",
-  "output": "En la campaña de verano 2020/2021 se sembraron 17.800 hectáreas de maíz en el Partido de General Madariaga, con un rinde estimado promedio de 8.500 kg por hectárea."
-},
-{
-  "instruction": "maiz ultima campaña",
-  "input": "",
-  "output": "En la campaña de verano 2020/2021 se sembraron 17.800 hectáreas de maíz en el Partido de General Madariaga, con un rinde estimado promedio de 8.500 kg por hectárea."
-}
-
 ]
