@@ -10,7 +10,7 @@ DOCS_DIR = "./documents"
 CHROMA_DIR = "./chroma_db"
 CHUNK_SIZE = 800
 CHUNK_OVERLAP = 200
-EMBED_MODEL = "all-MiniLM-L6-v2"
+EMBED_MODEL = "paraphrase-multilingual-MiniLM-L12-v2"
 
 def leer_pdf(path):
     paginas = []
