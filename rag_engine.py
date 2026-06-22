@@ -82,7 +82,14 @@ def tiene_palabras_reales(pregunta):
         "nuevo", "viejo", "antiguo", "reciente", "actual",
         "precio", "costo", "valor", "cantidad", "numero", "número",
         "tipo", "tipos", "clase", "forma", "manera", "modo",
-        "información", "informacion", "dato", "datos", "detalle", "detalles"
+        "información", "informacion", "dato", "datos", "detalle", "detalles",
+        "maiz", "maíz", "trigo", "soja", "girasol", "sorgo",
+"hectarea", "hectárea", "hectareas", "hectáreas",
+"campaña", "campana", "cultivo", "cultivos", "ganado",
+"produccion", "producción", "siembra", "cosecha",
+"rinde", "rendimiento", "apicultura", "ganaderia",
+"ganadería", "empresa", "empresas", "inversor",
+"madariaga", "partido", "agro", "campo",
     }
     palabras = set(pregunta.lower().split())
     return bool(palabras & palabras_comunes)
@@ -117,7 +124,7 @@ def responder(pregunta):
 
     # Buscar primero en el dataset
     for chunk, meta, dist in zip(chunks, metadatas, distancias):
-        if meta.get("tipo") == "dataset" and dist < 1.5:
+        if meta.get("tipo") == "dataset" and dist < 1.2:
             if "Respuesta:" in chunk:
                 respuesta = chunk.split("Respuesta:")[-1].strip()
             else:
