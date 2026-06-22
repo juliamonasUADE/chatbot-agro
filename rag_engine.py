@@ -115,7 +115,7 @@ def responder(pregunta):
 
     resultados = _coleccion.query(
         query_embeddings=embedding,
-        n_results=5,
+        n_results=10,
         include=["documents", "metadatas", "distances"]
     )
 
